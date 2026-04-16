@@ -1,0 +1,190 @@
+---
+pagetitle: "AI in the Screen Sector: Casebook"
+page-layout: custom
+section-divs: false
+toc: false
+---
+
+::: {.banner .dark-background}
+::: {.content-block .py-4 .px-4}
+::: {.intro-text}
+
+# AI in the Screen Sector: Casebook
+
+### Tracking the adoption of generative AI across film, television and video games
+In June 2025, the CoSTAR Foresight Lab published *AI in the Screen Sector: Perspectives and Paths Forward* -- the first UK-wide exploration of the overall impact of generative artificial intelligence (AI) on the full breadth of the UK’s screen sector.
+
+On this site, you can:
+
+- Review case studies of generative AI applications
+- Explore their links to our report's strategic roadmap
+- Share your own experiences of AI use and experimentation
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-4}
+
+[Case studies](case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-4 .mb-2}
+
+[Roadmap](#roadmap){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 
+:::
+:::
+:::
+
+::: {.banner .light-background}
+::: {.content-block .py-4 .px-4}
+::: {.grid .gap-6 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-md-4}
+
+[![](images/cover.png)](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){fig-alt="Cover image of the CoSTAR Foresight Lab report, AI in the Screen Sector: Perspectives and Paths Forward"}
+
+:::
+::: {.g-col-12 .g-col-md-8}
+::: {.report-text}
+
+# About the report
+
+The rapid development of generative AI is affecting how stories are told, how content is made, and how audiences engage with screen media. Within the UK’s film, television and video games sectors, there is considerable interest in the possibilities that AI might offer – but also a need to understand where and how these technologies are being used, and their likely impacts, both positive and negative. 
+
+Based on an analysis of available data, together with targeted expert interviews and industry surveys, *AI in the Screen Sector: Perspectives and Paths Forward* surfaces key insights into the existing and potential effects of generative AI while offering a set of high-level recommendations designed to ensure that the UK remains a global leader in screen production and creative innovation.
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {.tab-banner .dark-background}
+::: {.content-block .py-4 .px-4}
+::: {.intro-text}
+
+::: {.grid .gap-6}
+::: {.g-col-12}
+
+# Roadmap
+
+:::
+::: {.g-col-12}
+
+Our roadmap presents three key strategic outcomes -- frameworks, targeted support, and growth -- that should be delivered over the next three years, alongside high-level recommendations to guide the sector towards these outcomes. 
+
+:::
+::: {.g-col-12}
+
+<ul class="nav nav-pills d-flex flex-row w-100 stack-xs" id="roadmap-tab" role="tablist">
+  <li class="nav-item flex-fill text-center" role="presentation">
+    <button class="nav-link active" id="frameworks-tab" data-bs-toggle="tab" data-bs-target="#frameworks" type="button" role="tab" aria-controls="frameworks" aria-selected="true">Frameworks</button>
+  </li>
+  <li class="nav-item flex-fill text-center" role="presentation">
+    <button class="nav-link" id="support-tab" data-bs-toggle="tab" data-bs-target="#support" type="button" role="tab" aria-controls="support" aria-selected="false">Targeted support</button>
+  </li>
+  <li class="nav-item flex-fill text-center" role="presentation">
+    <button class="nav-link" id="growth-tab" data-bs-toggle="tab" data-bs-target="#growth" type="button" role="tab" aria-controls="growth" aria-selected="false">Growth</button>
+  </li>
+</ul>
+
+:::
+:::
+
+<div class="tab-content mt-2" id="roadmap-tabcontent">
+
+<div class="tab-pane fade  show active" id="frameworks" role="tabpanel" aria-labelledby="frameworks-tab">
+
+::: {.grid .gap-6}
+::: {.g-col-12 .g-col-lg-4}
+
+#### Rights
+
+Set the UK in a position as a **world-leading IP licensing market**.
+
+:::
+::: {.g-col-12 .g-col-lg-4}
+
+#### Carbon
+
+Embed data-driven guidelines to **minimise carbon impact of AI**.
+
+:::
+::: {.g-col-12 .g-col-lg-4}
+
+#### Responsible AI
+
+Support cross-discipline collaboration to **deliver market-preferred, ethical AI products**.
+
+:::
+:::
+
+</div>
+
+<div class="tab-pane fade" id="support" role="tabpanel" aria-labelledby="support-tab">
+
+::: {.grid .gap-6}
+::: {.g-col-12 .g-col-lg-4}
+
+#### Insight
+
+Enable UK Creative Industries strategies through **world-class intelligence**.
+
+:::
+::: {.g-col-12 .g-col-lg-4}
+
+#### Skills
+
+Develop the sector to **build skills complementary  to AI**.
+
+:::
+::: {.g-col-12 .g-col-lg-4}
+
+#### Public transparency
+
+Drive increased **public understanding of AI use in screen content**.
+
+:::
+:::
+
+</div>
+
+<div class="tab-pane fade" id="growth" role="tabpanel" aria-labelledby="growth-tab">
+
+::: {.grid .gap-6}
+::: {.g-col-12 .g-col-lg-4}
+
+#### Sector adaptation
+
+Boost the UK’s strong digital content production sector to **adapt and grow**.
+
+:::
+::: {.g-col-12 .g-col-lg-4}
+
+#### Investment
+
+Unlock investment to **propel the UK’s high-potential creative technology sector**.
+
+:::
+::: {.g-col-12 .g-col-lg-4}
+#### Independent creation
+
+Empower UK creatives to **develop AI-supported independent creativity**.
+
+:::
+:::
+
+</div>
+
+</div>
+
+:::
+:::
+:::

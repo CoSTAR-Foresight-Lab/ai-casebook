@@ -80,7 +80,7 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 :::
 ::: {.g-col-12 .g-col-sm-6 .mb-2}
 
-[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+[Read the report](https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
 
 ::: 
 ::: 

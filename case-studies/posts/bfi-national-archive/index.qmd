@@ -23,7 +23,7 @@ The [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) is the U
 ## Application of AI
 
 :::{.callout-note collapse="true"}
-The text in this section has been updated following its inclusion in the June 2025 report, [*AI in the Screen Sector: Perspectives and Paths Forward*](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf).
+The text in this section has been updated following its inclusion in the June 2025 report, [*AI in the Screen Sector: Perspectives and Paths Forward*](https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf).
 :::
 
 The BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.
@@ -70,7 +70,7 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 :::
 ::: {.g-col-12 .g-col-sm-6 .mb-2}
 
-[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+[Read the report](https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
 
 ::: 
 ::: 

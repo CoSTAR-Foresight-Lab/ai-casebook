@@ -21,7 +21,7 @@ website:
         href: https://www.costarnetwork.co.uk/labs/foresightlab
     center: Funded by [![](/images/ahrc-logo.png)](https://www.ukri.org/councils/ahrc/remit-programmes-and-priorities/convergent-screen-technologies-and-performance-in-realtime-costar/)
     right:
-      - href: https://github.com/brtarran/ai-case-studies
+      - href: https://github.com/costar-foresight-lab/ai-casebook
         icon: github
         aria-label: GitHub
       - href: https://www.linkedin.com/showcase/costar-foresight-lab

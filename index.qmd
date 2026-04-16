@@ -41,7 +41,7 @@ On this site, you can:
 ::: {.grid .gap-6 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-md-4}
 
-[![](images/cover.png)](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){fig-alt="Cover image of the CoSTAR Foresight Lab report, AI in the Screen Sector: Perspectives and Paths Forward"}
+[![](images/cover.png)](https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf){fig-alt="Cover image of the CoSTAR Foresight Lab report, AI in the Screen Sector: Perspectives and Paths Forward"}
 
 :::
 ::: {.g-col-12 .g-col-md-8}
@@ -56,7 +56,7 @@ Based on an analysis of available data, together with targeted expert interviews
 ::: {.grid .gap-3 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-6}
 
-[Read the report](https://a.storyblok.com/f/313404/x/ac4c0235f7/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+[Read the report](https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
 
 :::
 :::

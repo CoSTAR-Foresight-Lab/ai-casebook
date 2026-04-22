@@ -16,9 +16,9 @@ In June 2025, the CoSTAR Foresight Lab published *AI in the Screen Sector: Persp
 
 On this site, you can:
 
-- Review case studies of generative AI applications
-- Explore their links to our report's strategic roadmap
-- Share your own experiences of AI use and experimentation
+- Review [case studies](case-studies/index.qmd) of generative AI applications
+- Explore their links to our report's [strategic roadmap](#roadmap)
+- [Share your own experiences](https://github.com/CoSTAR-Foresight-Lab/ai-casebook) of AI use and experimentation
 
 ::: {.grid .gap-3 .pb-3 .pt-4}
 ::: {.g-col-12 .g-col-sm-4}
@@ -30,7 +30,12 @@ On this site, you can:
 
 [Roadmap](#roadmap){.btn-action .btn .btn-lg .w-100 role="button"}
 
-::: 
+:::
+::: {.g-col-12 .g-col-sm-4 .mb-2}
+
+[Share](https://github.com/CoSTAR-Foresight-Lab/ai-casebook){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::  
 ::: 
 :::
 :::
@@ -57,6 +62,11 @@ Based on an analysis of available data, together with targeted expert interviews
 ::: {.g-col-12 .g-col-sm-6}
 
 [Read the report](https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-6}
+
+[More from CoSTAR](https://www.costarnetwork.co.uk/insights){.btn-action .btn .btn-lg .w-100 role="button"}
 
 :::
 :::

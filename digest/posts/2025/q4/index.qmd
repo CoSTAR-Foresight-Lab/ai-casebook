@@ -1,0 +1,106 @@
+---
+title: "AI in the Screen Sector: Quarterly Digest - October to December 2025"
+description: "Copyright remains a pressing topic, with strong public support for the licensing of data for AI training. New guidelines and tools emerge to support responsible and ethical AI practice, while streamers and broadcasters expand AI use in production."
+author: Petra Lindnerova
+categories:
+  - Rights
+  - Responsible AI
+  - Skills
+  - Public transparency
+  - Sector adaptation
+  - Investment
+citation:
+  publisher: CoSTAR Foresight Lab
+  container-title: "AI in the Screen Sector: Quarterly Digest"
+date: 02/26/2026
+toc: true
+# image:
+# image-alt:
+---
+
+*In this digest, we analyse developments thematically, linking them to the nine key recommendations defined in our June 2025 report, ‘AI in the Screen Sector: Perspectives and Paths Forward’. Through monitoring of news items, reports and publications, the digest highlights emerging industry trends and tracks whether the sector is moving towards or away from the report's recommendations that, as of June 2025, attempted to represent ideal outcomes for the sector.*
+
+## Rights
+  
+As of the end of December 2025, the UK still did not have an overarching regulatory framework on the use of AI, similar to the EU’s AI Act, and the [UK Government](https://assets.publishing.service.gov.uk/media/6762c95e3229e84d9bbde7a3/241212_AI_and_Copyright_Consultation_print.pdf) continued to analyse the more than 11,500 responses to its Consultation on Copyright and Artificial Intelligence. Consultation responses showed marked support for requiring IP licensing in all cases of AI training (88% of respondents). [The next government review](https://www.reuters.com/business/media-telecom/britain-seeks-reset-copyright-battle-between-ai-creators-2026-01-13/), due in March 2026, is expected to mark a ‘reset moment’, with Culture minister Lisa Nandy saying it had been a ‘mistake’ for the government to start with ‘a preferred model, the opt-model’, which would allow AI companies to train on copyrighted material unless rightsholders opted out.
+
+With rights holders largely in favour of IP licensing, [Disney](https://news.sky.com/story/openai-bags-disney-characters-for-sora-short-video-app-13482236) made a notable move in signing a three-year deal with OpenAI to allow the AI developer’s Sora model to generate videos based on more than 200 Disney characters . This came as Disney sent a [cease-and-desist letter to Google](https://deadline.com/2025/12/disney-google-cease-and-desist-letter-1236645802/) over the latter’s AI services, claiming breach of copyright for alleged distribution of Disney’s copyrighted works without permission.
+
+The Disney/Sora deal garnered plenty of coverage, with some less than welcoming reactions from creative industry unions and professionals. While the [Writers’ Guild of America](https://variety.com/2025/digital/news/wga-disney-openai-deal-theft-of-our-work-1236606872/) praised Disney’s stance towards Google, it said the Sora deal seemed to ‘sanction the theft of our work’. Actors’ union SAG-AFTRA promised it would ‘closely monitor’ any developments to ensure contracts were complied with.
+
+Meanwhile, [animators](https://deadline.com/2025/12/disney-openai-deal-animators-sora-1236651227/) with direct links to Disney voiced concerns. The Owl House creator Dana Terrace warned of a future where creators lack the ‘time and patience to sit down and create works of art’ because using Sora means ‘we’ll be used to just getting it instantly.’ Ex-Disney supervising animator Aaron Blaise described the deal as ‘damage control’ and an attempt by Disney to retain some sort of hold over its library.
+
+Disputes over IP rights and AI training have been in the courts on both sides of the Atlantic. Previously in the US, two prominent legal battles ended in favour of the tech companies involved (Meta and Anthropic), while in the UK in November, photo licensing agency [Getty Images](https://www.foxwilliams.com/2025/11/11/1st-uk-judgment-on-generative-ai-and-ip-getty-images-v-stability-ai/) secured a limited win in its action against Stability AI. Getty’s claims of primary copyright infringement had to be withdrawn due to lack of evidence of relevant model training happening in the UK jurisdiction. But it succeeded in a claim of trade mark infringement due to older versions of Stability AI’s Stable Diffusion model generating images that reproduced Getty’s watermarks.  
+
+## Responsible AI  
+
+[Deep Fusion Films](https://www.deepfusionfilms.com/artificial-intelligence-white-paper)(UK), the studio behind the Virtually Parkinson podcast, published a whitepaper detailing an Ethical Checklist for Producers using AI. It combines eight ‘core expectations emerging across broadcasters, unions, right holders and industry bodies,’ and is an example of a framework developed with both industry needs and public values in mind.
+
+The checklist has echoes of Netflix’s GenAI use guidelines from August 2025 but puts more emphasis on ethics and poses questions such as:
+
+* Have you avoided using AI-generated elements in ways that could mislead viewers?  
+* Has the team considered how AI automation affects junior roles, training opportunities and creative development?
+
+It encourages producers to interrogates their choice of AI tools and the potential associated risks. For example:
+
+* Do you know whether the tool stores data, trains on inputs or shares them with others?
+
+According to Deep Fusion, producers who adopt the checklist ‘will be better equipped to use the technology confidently and responsibly as it becomes woven into everyday production.’
+
+As expectations for responsible and ethical AI practice start to crystallise in the form of checklists and guidelines, there will be a need for AI tools and services that align with these requirements. Enter [Locai Labs](https://locailabs.com/), a UK-based company that has developed a foundational LLM built on a vision for ‘community AI’. The company says it set out to develop ‘accessible, auditable’ AI and promises to ‘never train on your data’. Its offer is said to combine self-learning technology with decentralised architecture to bring together a crowdsourced model that generates its own data and focuses on collaboration.
+
+The current version of the Locai model responds to text prompts, allows file uploads and can search the web. It has been described as ‘fast and responsive’ by [Tech Radar,](https://www.techradar.com/ai-platforms-assistants/a-new-uk-ai-says-it-can-beat-chatgpt-we-tried-it-and-heres-what-we-found) despite lacking the many features of ChatGPT.
+
+UK band [Haven](https://www.bbc.co.uk/news/articles/cwyvjye18e9o) had chart success with single I Ran in October, but stumbled into some controversy when listeners accused the band of using AI to copy the voice of another British singer, Jorja Smith. Haven explained that it had used the AI tool Suno to transform a male band member’s vocal track into a woman’s voice – but denied instructing the tool to mimic Smith. Streaming companies began removing the track from their platforms, and the band faced lawsuits seeking compensation – emphasising the growing tensions around transparency of generative AI tools and how to use them ethically.
+
+## Skills
+
+According to the [World Economic Forum’s Future of Jobs Report 2025](https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf), 40% of employers globally expect to reduce their workforce in areas where AI can automate tasks’. [Amazon](https://variety.com/2025/digital/news/amazon-layoffs-14000-corporate-employees-citing-ai-1236563297/) has already eliminated 14,000 roles, which they partly explained as being due to “rapid AI development”, while a ‘voluntary exit program’ was introduced at [YouTube (Google)](https://variety.com/2025/digital/news/youtube-ai-reorganization-employees-voluntarily-layoff-packages-1236565178/) . AI was cited in nearly 50,000 job cuts in the US in [2025](https://www.latimes.com/business/story/2025-11-20/ai-cited-in-close-to-50-000-job-cuts-as-tech-giants-accelerate-automation#:~:text=Tech%20companies%20cited%20artificial%20intelligence,overexpansion%20and%20uncertain%20economic%20conditions.).
+
+In November 2025, unemployment in the UK rose to the highest level in nearly five years. Bank of England governor [Andrew Bailey](https://www.bbc.co.uk/news/articles/c0r9280gvelo) said AI is likely to have an impact on jobs similar to that of the Industrial Revolution, and that workers will need training, education and skills to move into jobs utilising AI.
+
+Within the creative industry, some workers fear being replaced by AI entirely. As per the Cambridge Minderoo Centre for Technology and Democracy report, half of [UK novelists](https://www.cam.ac.uk/stories/generative-ai-novelists) believe AI is likely to replace them , and research by the [British Film Designers Guild](https://deadline.com/2025/11/production-designers-fear-ai-1236620218/) finds that 66% of production designers share the same concern.
+
+Entry-level positions are seen as being most at risk from AI, leading to a lack of career opportunity for younger adults or older adults looking to switch careers. Meanwhile, studios continue to recruit senior AI executives. In October, [Netflix](https://www.gamespot.com/articles/netflix-is-hiring-a-new-genai-gaming-boss-with-a-huge-salary/1100-6535200/) advertised for a position leading the company’s generative AI efforts in its games department , and in November [BBC Studios](https://www.bbcstudios.com/news/bbc-studios-appoints-alice-taylor-to-lead-its-new-ai-creative-lab/) hired former Disney technology executive Alice Taylor to head its AI Creative Lab, which aims to expand use of AI across content.
+
+Senior AI leadership positions are necessary for the sector to adapt to the fast-evolving AI landscape. But not all creative workers are happy with companies adopting generative AI as part of creative practice, or mandating its use – particularly in video game development. According to a recent [GDC survey](https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey), more than a half of game developers think generative AI is bad for the industry , and art designers like [Paul Scott Canavan](https://www.gamespot.com/articles/video-game-concept-artists-say-genai-isnt-making-things-easier/1100-6537107/) think it makes the job difficult and ‘more frustrating.’  
+
+## Public transparency  
+
+The launch of AI actress Tilly Norwood generated reams of publicity in September, but Tilly wasn’t the only AI persona on screen last year. A [Channel 4](https://deadline.com/2025/10/channel-4-airs-show-hosted-ai-presenter-1236592504/) documentary, ‘Will AI Take My Job?’, was hosted by an AI presenter – a purposeful move described by head of news Louisa Compton as a ‘reminder of just how disruptive AI has the potential to be – and how easy it is to hoodwink audiences with content they have no way of verifying.’ To fulfil its transparency duty, Channel 4 revealed the true ‘identity’ of the anchor at the end of the programme.
+
+[BBC](https://www.bbc.co.uk/mediacentre/articles/user-centred-ai-labels) docu-drama ‘Titanic Sinks Tonight’, broadcast in December, didn’t feature AI presenters but did carry a notice over the credits that ‘AI has been used responsibly to create a small number of visual effect shots in this series’. The broadcaster has developed an AI labelling approach for its content that aims to address transparency needs identified through audience research. Audiences ‘don’t just want to know when AI is used, they want to understand how and why it is used’ , says the BBC, which began trialling the new labels in the Live Sport section of its website.
+
+According to [Sky News](https://futureweek.com/sky-news-to-build-ai-tools-for-audience-engagement/): ‘In an era defined by misinformation and AI-generated content, the need for accurate, impartial, and high-quality journalism has never been greater.’ Its five-year plan includes an AI strategy that will see development of transparent tools built on its content with the help of Arc XP, a CMS platform with AI-powered features.
+
+For video game content, storefronts such as Steam require AI disclosures, and recent releases have revealed the use of generative AI for in-game assets (Call of Duty: Black Ops) and for character voices (Arc Raiders). These disclosures have prompted backlash from some sections of the gaming community, but according to [Epic Games](https://www.eurogamer.net/epic-games-boss-tim-sweeney-says-steam-ai-disclosures-make-no-sense) boss Tim Sweeney, AI disclosure for games ‘makes no sense’ as ‘AI will be involved in nearly all future production’. Sweeney’s statement, in turn, raised concerns among the video game community about the scale of AI implementation and the threat of worker displacement.  
+
+## Sector adaptation  
+As seen in the ‘Public Transparency’ section (above), generative AI has been finding its way into content production across media. The [BBC’s Chief Content Officer](https://www.youtube.com/watch?v=_ikMtc0PjHA) says that the broadcaster intends to be ‘at the forefront of how the media are using \[generative AI\]’ and that the corporation is ‘in a very test-and-learn phase’ , trying out the technology on the BBC News website and apps and using it for subtitling for BBC Sounds.
+
+[ITV](https://www.itv.com/presscentre/presscentre/presscentre/media-releases/itv-launches-genai-ads-manager-powered-magnites-streamrai) has also been using AI to aid their creative processes and day-to-day tasks, according to Jason Spencer, the broadcaster’s business development director. As well as using AI as a tool in storyboarding and ideation, ITV launched a generative AI production service, GenAI Ads Manager, which creates TV ads using a customer’s website and social media pages as inputs. The platform was custom-built for ITV and uses Magnite’s Streamr.AI to automate creation of the adverts. The aim is to reduce financial and operational barriers for SMEs.
+
+Meanwhile, streamers are exploring options for using AI on their platforms. On a conference call, [Disney](https://www.newsweek.com/entertainment/disney-plus-ai-bob-iger-11047946) chief Bob Iger mentioned the company’s plan to bring AI personalisation to Disney+ subscribers . Amazon launched AI-powered video recaps for its original shows including Tom Clancy’s Jack Ryan and Fallout, to summarise important plot developments for viewers, using AI to find appropriate clips and generating a voiceover.  
+
+## Investment
+
+Since 2018, [UK government](https://news.sky.com/story/revealed-how-much-the-governments-spending-on-ai-13463502) departments have invested more than £3.35bn overall in AI contracts, infrastructure and services – including £79m spent by the Department for Culture, Media and Sport.
+
+A previously announced [UK-US tech prosperity deal](https://www.telegraph.co.uk/us/politics/2025/12/16/trump-pulled-uk-trade-deal-ai-starmer/) envisaged pouring £150bn into the UK tech industry, but progress has stalled due to concerns on the US side about the UK’s Digital Services Tax and Online Safety Act. The Trump administration claims the legislation may ‘stifle American AI companies’ and the deal is currently on ice.
+
+Still, the financial value of US AI companies continues to grow, with Alphabet’s shares having doubled in price in only seven months, and other firms such as Nvidia experiencing steep rises in market capitalisation. But amid this boom, Alphabet’s CEO [Sundar Pichai](https://www.bbc.co.uk/news/articles/cwy7vrd8k4eo) has warned about the possibility of the AI bubble bursting, claiming there is some ‘irrationality’ that may lead to collapse.
+
+Over in Europe, meanwhile, officials are looking to loosen ties to American and Chinese technology companies and are striving for AI sovereignty instead. [The European Commission](https://www.reuters.com/world/china/eu-rolls-out-11-billion-plan-ramp-up-ai-key-industries-amid-sovereignty-drive-2025-10-08/) also announced 1 billion euro would be committed to ramping up AI use in numerous sectors such as healthcare, energy, mobility, culture and others.  
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Read more from the digest](/digest/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-6 .mb-2}
+
+[Explore AI case studies](/case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 

@@ -348,3 +348,13 @@ body:not(.floating) .nav-footer {
 .nav-footer a:hover, .nav-footer p:hover {
   color: #ff9e0a;
 }
+
+/*-- Sidebar --*/
+.sidebar nav[role=doc-toc] ul>li>a.active {
+  border-left: 1px solid #ff9e0a;
+  color: #ff9e0a !important;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a:hover {
+  color: #ff9e0a !important;
+}

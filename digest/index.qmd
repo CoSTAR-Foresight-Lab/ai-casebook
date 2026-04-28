@@ -1,0 +1,15 @@
+---
+pagetitle: "AI in the Screen Sector: Quarterly Digest"
+title: 'AI in the Screen Sector: Quarterly Digest'
+subtitle: A regular summary of AI events and developments impacting the screen sector, brought to you by the CoSTAR Foresight Lab
+search: false
+listing:
+  contents: 
+  - posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 30
+---

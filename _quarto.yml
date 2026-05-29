@@ -15,7 +15,7 @@ website:
         text: Digest
 
   page-footer:
-    background: "#414141"
+    background: "#ffffff"
     left:
       - text: "costarnetwork.co.uk"
         href: https://www.costarnetwork.co.uk/labs/foresightlab

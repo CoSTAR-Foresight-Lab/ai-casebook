@@ -9,7 +9,7 @@
 }
 
 .navbar-logo {
-  max-height: 100px;
+  max-height: 70px;
   width: auto;
   align-items: baseline;
   padding: 1rem;
@@ -17,7 +17,7 @@
 
 @media (max-width: 575.98px) {
   .navbar-logo {
-    max-height: 55px;
+    max-height: 45px;
     padding: 0.5rem;
   }
 }
@@ -123,12 +123,28 @@
   min-width: 165px;
   border-radius: 30px;
   border: none;
-  font-weight: 400;
+  font-weight: 300;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 16px;
+}
+
+.btn-action::after {
+  content: '→';
+  display: inline-block;
+  font-size: 1.1em;
+  transition: transform 0.2s ease;
 }
 
 .btn-action:hover {
-  background-color: #454545;
+  background-color: #2d2d2d;
   color: white;
+}
+
+.btn-action:hover::after {
+  transform: translateX(4px);
 }
 
 /*-- background styles --*/

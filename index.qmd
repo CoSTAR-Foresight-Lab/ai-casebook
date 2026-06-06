@@ -80,16 +80,19 @@ Based on an analysis of available data, together with targeted expert interviews
 ::: {.content-block .py-4 .px-4}
 ::: {.intro-text}
 
-::: {.grid .gap-6}
-::: {.g-col-12}
-
 # Roadmap
 
-:::
+Our roadmap presents three key strategic outcomes -- frameworks, targeted support, and growth -- that should be delivered over the next three years, alongside high-level recommendations to guide the sector towards these outcomes.
+
+::: {.grid .gap-6}
 ::: {.g-col-12}
-
-Our roadmap presents three key strategic outcomes -- frameworks, targeted support, and growth -- that should be delivered over the next three years, alongside high-level recommendations to guide the sector towards these outcomes. 
-
+:::
+::: {.g-col-2}
+:::
+::: {.g-col-8}
+---
+:::
+::: {.g-col-2}
 :::
 ::: {.g-col-12}
 

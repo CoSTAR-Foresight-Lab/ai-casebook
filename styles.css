@@ -166,7 +166,7 @@
 
 .tab-banner .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
   border: none;
-  border-bottom: 2px solid #ff9e0a;
+  border-bottom: 2px solid #1f1f1f;
   color: #1f1f1f;
   background-color: transparent;
 }

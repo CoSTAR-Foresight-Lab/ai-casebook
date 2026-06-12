@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "case-studies/posts/deep-fusion-films/index.html",
+    "href": "case-studies/posts/deep-fusion-films/index.html",
+    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
+    "section": "",
+    "text": "Deep Fusion Films are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company’s first production Gerry Anderson: A Life Uncharted used AI to explore the personal story of Thunderbirds creator Gerry Anderson, whilst Virtually Parkinson is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests, using AI dialogue and voice synthesis.\n\n\n\n\nA screenshot of the tools used to train and replace Gerry Anderson’s face during the production of the show, courtesy of Deep Fusion Films."
+  },
+  {
+    "objectID": "case-studies/posts/deep-fusion-films/index.html#background",
+    "href": "case-studies/posts/deep-fusion-films/index.html#background",
+    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
+    "section": "",
+    "text": "Deep Fusion Films are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company’s first production Gerry Anderson: A Life Uncharted used AI to explore the personal story of Thunderbirds creator Gerry Anderson, whilst Virtually Parkinson is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests, using AI dialogue and voice synthesis.\n\n\n\n\nA screenshot of the tools used to train and replace Gerry Anderson’s face during the production of the show, courtesy of Deep Fusion Films."
+  },
+  {
+    "objectID": "case-studies/posts/deep-fusion-films/index.html#application-of-ai",
+    "href": "case-studies/posts/deep-fusion-films/index.html#application-of-ai",
+    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
+    "section": "Application of AI",
+    "text": "Application of AI\nGerry Anderson: A Life Uncharted was the company’s first production and came out of experimentation with emerging ‘DeepFake’ tools to overlay Gerry Anderson’s visual appearance onto a body double and create new interview footage with the synthetic character.\nVirtually Parkinson used synthetic audio generation to explore the idea of an AI system ‘interviewing’ new guests based on the style, tone, approach and generated voice of Sir Michael Parkinson.\nWhilst these are the most high-profile examples of Deep Fusion’s use of AI, more recently their focus has shifted to applying new technologies to address some of the fundamental economic challenges facing TV production. The company has been developing two systems to accelerate its own pre-production and planning around new ideas and projects:\n\nWeavr uses visual and metadata analysis to help producers identify what kind of stories could be told using available archive material. It generates potential concepts, three-act structures and illustrative scripts based on the creative briefs provided by producers. These scripts can then be mocked up with a synthetic voice platform, like ElevenLabs.\nPaperCut is a tool that creates XML files based on available archive material and newly acquired interview and b-roll footage.\n\nDeep Fusion co-founder and CEO Ben Field is keen to emphasise that, in using these tools, productions are still being created by a regular production team. “It’s just that they’re working much, much quicker,” says Field. “And they’re being able to iterate and be creative in a much more dynamic way.”\n\n\n\n\n\n“We need to stop imagining that AI is putting people out of work. The industry is putting people out of work, and [we think] AI is creating opportunities to bring them back in.”\n\n\n\n\n\nBen Field, co-founder and CEO, Deep Fusion Films."
+  },
+  {
+    "objectID": "case-studies/posts/deep-fusion-films/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/deep-fusion-films/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
+    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nDeep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.\n\n\n\nInsight\n\nDeep Fusion has been open about its use of AI and has shared insights into its processes and approaches, contributing to a broader understanding of the technology’s potential and challenges. It also recently published its own white paper on the use of AI in the screen industries, which features an ethical AI checklist for producers (see Resources section).\n\n\n\nIndependent creation\n\nDeep Fusion’s story is part of an emerging theme. Creators are trying to use existing AI products and solutions but finding them wanting for creative tasks in the CoSTAR sectors. By building their own tooling and infrastructure, companies like Deep Fusion are enabling new workflows for themselves, and maintaining control over the use of the technology."
+  },
+  {
+    "objectID": "case-studies/posts/deep-fusion-films/index.html#resources",
+    "href": "case-studies/posts/deep-fusion-films/index.html#resources",
+    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
+    "section": "Resources",
+    "text": "Resources\n\nDeep Fusion Film’s AI whitepaper\n\n\n\nFind more case studies\n\n\nRead the report"
+  },
+  {
+    "objectID": "case-studies/posts/humain/index.html",
+    "href": "case-studies/posts/humain/index.html",
+    "title": "Humain: Rigging and retooling in the age of AI",
+    "section": "",
+    "text": "Humain specialises in digital human creation for video games and screen. Founded in 2017 by Greg Maguire, who led teams at Disney and Lucasfilm Animation, the company builds rigs (digital controls) and characters for major titles including Halo, Call of Duty, Microsoft Flight Simulator, Diablo II and The Outer Worlds 2. Maguire’s career has run alongside successive waves of new technology in animation – from the introduction of motion capture to music videos at Colossal Pictures in the early 1990s, to retraining traditional 2D animators to work on Disney’s first 3D feature film. Humain was set up with a similar structure to those larger studios: a production team works directly with clients and feeds requirements and needs to an internal R&D team, whose job is to explore and build tools to keep abreast of innovations.\n\n\n\n\nScreenshot of the Humain Creator platform, courtesy of Humain."
+  },
+  {
+    "objectID": "case-studies/posts/humain/index.html#background",
+    "href": "case-studies/posts/humain/index.html#background",
+    "title": "Humain: Rigging and retooling in the age of AI",
+    "section": "",
+    "text": "Humain specialises in digital human creation for video games and screen. Founded in 2017 by Greg Maguire, who led teams at Disney and Lucasfilm Animation, the company builds rigs (digital controls) and characters for major titles including Halo, Call of Duty, Microsoft Flight Simulator, Diablo II and The Outer Worlds 2. Maguire’s career has run alongside successive waves of new technology in animation – from the introduction of motion capture to music videos at Colossal Pictures in the early 1990s, to retraining traditional 2D animators to work on Disney’s first 3D feature film. Humain was set up with a similar structure to those larger studios: a production team works directly with clients and feeds requirements and needs to an internal R&D team, whose job is to explore and build tools to keep abreast of innovations.\n\n\n\n\nScreenshot of the Humain Creator platform, courtesy of Humain."
+  },
+  {
+    "objectID": "case-studies/posts/humain/index.html#application-of-ai",
+    "href": "case-studies/posts/humain/index.html#application-of-ai",
+    "title": "Humain: Rigging and retooling in the age of AI",
+    "section": "Application of AI",
+    "text": "Application of AI\nAround 2020, a published research paper demonstrated a digital character speaking with no rig at all, its facial movements instead driven directly by an audio file. For Maguire, this was “an existential crisis”: if a mesh could be animated from sound alone, the case for commissioning a studio to do that work could become much harder to make. The team’s response was to look at what those early audio-to-mesh models actually needed, and where the gaps were in both functionality and quality. Existing public datasets were poor quality, focused on proof-of-concept and academic application. Creating production-ready models relies on high quality, standardised motion data, and Humain’s core work was creating exactly the kind of high-fidelity character databases they lacked.\nWorking with chief scientific officer Erica Rosenberg, the Humain team captured 40 facial action units (FACS), a standardised annotation system for expressions, plus 100 common combinations, then wrote software to transfer those from a source subject to other characters, adding new approaches and features over time. The studio has published around 30 peer-reviewed papers on computer vision covering encoding and decoding strategies, identity tracking, and expression transfer. One finding from this work came as a surprise: because the model had been trained on phonetically-diverse audio rather than language-specific data, it worked in Japanese, Chinese, French, Polish and other languages without major additional training.\nThis work led to the development of Humain Creator, a tool that generates and lip-syncs 3D characters from an audio file, in any language, in any engine, without rigging, with characters adjustable by age, build or facial feature in milliseconds.\n\n\n\n“We thought we were training [our model] in language, but we were actually training it with sound.”\n\n\n\nGreg Maguire, founder, Humain."
+  },
+  {
+    "objectID": "case-studies/posts/humain/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/humain/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "Humain: Rigging and retooling in the age of AI",
+    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nHumain has trained its models on datasets the company has captured, with full clearance and knowledge of the pipeline. This kind of approach, whilst requiring use-specific skillsets and knowledge, makes commercial use of the technology straightforward.\n\n\n\nInvestment\n\nHumain’s published research work has been supported by Innovate UK, Northern Ireland Screen and Invest NI. Without public funding it would not have happened, says Maguire: “Without it, we would not have been able to do it. Every single R&D thing that we would have had to do would have been directly applied to exactly what we’re doing at that moment in time.”\n\n\n\nSector adaptation\n\nHumain’s trajectory – from a studio commissioned to build facial rigs, to a company developing tools that can help increase throughput and enhance creativity – is an example of how deep production expertise, when combined with sustained R&D investment, can position a modest UK company at the frontier of a fast-moving technology field."
+  },
+  {
+    "objectID": "case-studies/posts/humain/index.html#resources",
+    "href": "case-studies/posts/humain/index.html#resources",
+    "title": "Humain: Rigging and retooling in the age of AI",
+    "section": "Resources",
+    "text": "Resources\n\nHumain Studios\n\n\n\nFind more case studies\n\n\nRead the report"
+  },
+  {
     "objectID": "case-studies/posts/camera-intelligence/index.html",
     "href": "case-studies/posts/camera-intelligence/index.html",
     "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
@@ -33,6 +103,41 @@
     "title": "Camera Intelligence: Bridging capture, computation and post-production with on-device and cloud AI",
     "section": "Resources",
     "text": "Resources\n\n\n\nFind more case studies\n\n\nRead the report"
+  },
+  {
+    "objectID": "case-studies/posts/bfi-national-archive/index.html",
+    "href": "case-studies/posts/bfi-national-archive/index.html",
+    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "section": "",
+    "text": "The BFI National Archive is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilms, and materials such as scripts, photographs, and posters."
+  },
+  {
+    "objectID": "case-studies/posts/bfi-national-archive/index.html#background",
+    "href": "case-studies/posts/bfi-national-archive/index.html#background",
+    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "section": "",
+    "text": "The BFI National Archive is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilms, and materials such as scripts, photographs, and posters."
+  },
+  {
+    "objectID": "case-studies/posts/bfi-national-archive/index.html#application-of-ai",
+    "href": "case-studies/posts/bfi-national-archive/index.html#application-of-ai",
+    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "section": "Application of AI",
+    "text": "Application of AI\n\n\n\n\n\n\nNote\n\n\n\n\n\nThe text in this section has been updated following its inclusion in the June 2025 report, AI in the Screen Sector: Perspectives and Paths Forward.\n\n\n\nThe BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.\nThe experiments focus on three areas:\n\n\nSpeech-to-text\n\nTesting OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.\n\n\n\nNamed entity recognition (NER) and wikification\n\nUsing spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.\n\n\n\nVideo understanding and description\n\nExperimenting with Google Gemini Pro to catalogue, shotlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.\n\n\n\n\n\n\n\nFilm reel cannisters inside the BFI National Archive, courtesy of the BFI."
+  },
+  {
+    "objectID": "case-studies/posts/bfi-national-archive/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/bfi-national-archive/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nThe BFI National Archive has followed the “scan &gt; pilot &gt; scale” approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network.\n\n\n\nSector adaptation\n\nAI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits."
+  },
+  {
+    "objectID": "case-studies/posts/bfi-national-archive/index.html#resources",
+    "href": "case-studies/posts/bfi-national-archive/index.html#resources",
+    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "section": "Resources",
+    "text": "Resources\n\nInside the Archive\n\n\n\nFind more case studies\n\n\nRead the report"
   },
   {
     "objectID": "case-studies/posts/superscout/index.html",
@@ -103,76 +208,6 @@
     "title": "10six Games: Building a generative AI platform that puts players in the game",
     "section": "Resources",
     "text": "Resources\n\nYOU vs. Zombies - Roguelike Zombie Survival Game\nYOU vs Zombies on Steam\n\n\n\nFind more case studies\n\n\nRead the report"
-  },
-  {
-    "objectID": "case-studies/posts/black-goblin/index.html",
-    "href": "case-studies/posts/black-goblin/index.html",
-    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
-    "section": "",
-    "text": "Black Goblin is an Edinburgh-based creative technology company started by two female founders.\nThe team started working on a product called Thol that would automate ‘spotting’ – identifying where in a video timeline audio elements need to be added – and generating, using AI, appropriate sound effects to be inserted into the timeline. The team is now initially building out the spotting functionality, based on user feedback and research.\n“Sound design is a discipline that … very much goes hand-in-hand with new novel technologies; how to use technology to enhance the creative side of work,” says Black Goblin co-founder Ana Betancourt.\n\n\n\n\nA mockup of Thol’s user interface, copyright Black Goblin. The application is currently in beta testing."
-  },
-  {
-    "objectID": "case-studies/posts/black-goblin/index.html#background",
-    "href": "case-studies/posts/black-goblin/index.html#background",
-    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
-    "section": "",
-    "text": "Black Goblin is an Edinburgh-based creative technology company started by two female founders.\nThe team started working on a product called Thol that would automate ‘spotting’ – identifying where in a video timeline audio elements need to be added – and generating, using AI, appropriate sound effects to be inserted into the timeline. The team is now initially building out the spotting functionality, based on user feedback and research.\n“Sound design is a discipline that … very much goes hand-in-hand with new novel technologies; how to use technology to enhance the creative side of work,” says Black Goblin co-founder Ana Betancourt.\n\n\n\n\nA mockup of Thol’s user interface, copyright Black Goblin. The application is currently in beta testing."
-  },
-  {
-    "objectID": "case-studies/posts/black-goblin/index.html#application-of-ai",
-    "href": "case-studies/posts/black-goblin/index.html#application-of-ai",
-    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
-    "section": "Application of AI",
-    "text": "Application of AI\nThe original vision for Thol was to explore the automation of sound effects in a video timeline to create a rough first pass for sound editors. The company conducted observational research, sitting with approximately 10 sound designers over several months to watch them work. Betancourt describes the methodology: “We just observed … without asking questions, except when we saw them struggle, you know, can you explain what you’re doing?”. The participants identified spotting and marking as a place where technology could be applied, without encroaching on their creativity and professional practice, and the Black Goblin team is prioritising this use case.\nThol’s functionality relies on a mixture of machine learning methods, including vision-language models, a class of AI models that integrates understanding of both image and text, to extract timestamps of action-related events and sound sources from a video.\nWhilst these types of models are trained on existing text, image and video data, Black Goblin are using them to guide an audio production session.\n\n\n\n\n\n“Success for us looks like a sound designer using this, and feeling that they were able to make more impact on their projects because of the time that they saved”\n\n\n\n\n\nAna Betancourt, co-founder of Black Goblin."
-  },
-  {
-    "objectID": "case-studies/posts/black-goblin/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "href": "case-studies/posts/black-goblin/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
-    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
-    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nBlack Goblin’s focus changed from generating audio to marking up spotting sessions after engaging in user research. The users of their tool, currently in beta, are informed where in the pipeline AI models are being used.\n\n\n\nInvestment\n\nThe team have received funding and support from University of Edinburgh, MyWorld (UKRI), and CoSTAR. They are currently looking to raise a funding round."
-  },
-  {
-    "objectID": "case-studies/posts/black-goblin/index.html#resources",
-    "href": "case-studies/posts/black-goblin/index.html#resources",
-    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
-    "section": "Resources",
-    "text": "Resources\n\n\nBlack Goblin website\nBlack Goblin contributed to An Introduction to Responsible AI for SMEs - via Coursera\n\n\n\nFind more case studies\n\n\nRead the report"
-  },
-  {
-    "objectID": "case-studies/posts/metrotone/index.html",
-    "href": "case-studies/posts/metrotone/index.html",
-    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
-    "section": "",
-    "text": "Metrotone Media is a London-based film and television studio founded by TV producer and showrunner Katharina Gellein Viken and broadcaster and journalist Dr Charles Kriel. In December 2025, Metrotone launched Screenburn, a content development tool to help creators structure story ideas around a variety of screen formats, including films, TV shows, and micro-dramas.\nThrough a mix of questions and prompts, Screenburn guides users to develop ideas into key scenes within an overarching narrative. For example, for a feature film, users are first encouraged to describe the opening image or scene before introducing the story’s protagonist, their personality traits, strengths and flaws. Scenes can then be reordered or remixed to fit different formats, allowing for multiple adaptations of the same central idea.\nMetrotone is looking to further develop Screenburn during its engagement with the CoSTAR Evolve programme, which is providing business growth support to 11 UK creative technology companies.\n\n\n\n\n\n“When everybody started piling in and AI sort of levelled the playing field, we quickly realised that creating visuals would become easier. But creating a good story still wouldn’t be easy… Writing and content development hadn’t really had an upgrade.”\n\n\n\n\n\nKatharina Gellein Viken, co-founder, Metrotone Media."
-  },
-  {
-    "objectID": "case-studies/posts/metrotone/index.html#background",
-    "href": "case-studies/posts/metrotone/index.html#background",
-    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
-    "section": "",
-    "text": "Metrotone Media is a London-based film and television studio founded by TV producer and showrunner Katharina Gellein Viken and broadcaster and journalist Dr Charles Kriel. In December 2025, Metrotone launched Screenburn, a content development tool to help creators structure story ideas around a variety of screen formats, including films, TV shows, and micro-dramas.\nThrough a mix of questions and prompts, Screenburn guides users to develop ideas into key scenes within an overarching narrative. For example, for a feature film, users are first encouraged to describe the opening image or scene before introducing the story’s protagonist, their personality traits, strengths and flaws. Scenes can then be reordered or remixed to fit different formats, allowing for multiple adaptations of the same central idea.\nMetrotone is looking to further develop Screenburn during its engagement with the CoSTAR Evolve programme, which is providing business growth support to 11 UK creative technology companies.\n\n\n\n\n\n“When everybody started piling in and AI sort of levelled the playing field, we quickly realised that creating visuals would become easier. But creating a good story still wouldn’t be easy… Writing and content development hadn’t really had an upgrade.”\n\n\n\n\n\nKatharina Gellein Viken, co-founder, Metrotone Media."
-  },
-  {
-    "objectID": "case-studies/posts/metrotone/index.html#application-of-ai",
-    "href": "case-studies/posts/metrotone/index.html#application-of-ai",
-    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
-    "section": "Application of AI",
-    "text": "Application of AI\nThe Screenburn user experience includes suggestions derived from large language models, although these suggestions are not based on the story or script in development. Instead, AI is used to explain core concepts – such as the role of a protagonist – and illustrate with examples from existing stories.\nIn this way, the user does not prompt the AI; the AI prompts the user. Viken says that while AI guidance features throughout the tool, it does not read the user’s story or script, and it doesn’t extract IP.\nMetrotone has used Screenburn for its own content development. An early version helped develop the studio’s Raynmaker story from book idea to script. Raynmaker is about an ex-marine living in hiding who creates a K-pop star as an online alter-ego. A 22-episode series is now in production, with generative AI tools being used to create both audio and visuals. Using Screenburn, the company has also developed micro-drama, feature film, novel and graphic novel versions of the Raynmaker story.\nViken and Kriel used AI in writing the codebase for the Screenburn software. “We could never have done this without using AI to help code,” says Viken. “Instead of just the two of us, we would have needed a team of 10-15 people. But as with all AI, you have to have someone who’s experienced in the field looking over the outputs to recognise when it’s not giving you good stuff.”"
-  },
-  {
-    "objectID": "case-studies/posts/metrotone/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "href": "case-studies/posts/metrotone/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
-    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
-    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nRights\n\nScreenburn is designed so that AI is walled off from user content. Nor is AI used to create content directly, instead guiding users to write their own stories while using examples of character or plot developments drawn from existing sources.\n\n\n\nSkills\n\nMetrotone’s experience of using AI coding assistants to develop Screenburn from internal tool to product demonstrates a potential benefit of building AI skills within the screen sector: allowing creative professionals to design custom solutions for specific use cases within creative workflows.\n\n\n\nIndependent creation\n\nThe Screenburn approach positions AI as an assistant within a creative process that remains driven by human ideas and imagination. The role of AI is to augment the capabilities of a writer and allow them to sharpen and adapt their ideas to new formats."
-  },
-  {
-    "objectID": "case-studies/posts/metrotone/index.html#resources",
-    "href": "case-studies/posts/metrotone/index.html#resources",
-    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
-    "section": "Resources",
-    "text": "Resources\n\nMetrotone Media\nScreenburn\nRaynmaker pilot episode\n\n\n\nFind more case studies\n\n\nRead the report"
   },
   {
     "objectID": "case-studies/posts/dead-meat/index.html",
@@ -301,39 +336,109 @@
     "text": "Investment\nSince 2018, UK government departments have invested more than £3.35bn overall in AI contracts, infrastructure and services – including £79m spent by the Department for Culture, Media and Sport.\nA previously announced UK-US tech prosperity deal envisaged pouring £150bn into the UK tech industry, but progress has stalled due to concerns on the US side about the UK’s Digital Services Tax and Online Safety Act. The Trump administration claims the legislation may ‘stifle American AI companies’ and the deal is currently on ice.\nStill, the financial value of US AI companies continues to grow, with Alphabet’s shares having doubled in price in only seven months, and other firms such as Nvidia experiencing steep rises in market capitalisation. But amid this boom, Alphabet’s CEO Sundar Pichai has warned about the possibility of the AI bubble bursting, claiming there is some ‘irrationality’ that may lead to collapse.\nOver in Europe, meanwhile, officials are looking to loosen ties to American and Chinese technology companies and are striving for AI sovereignty instead. The European Commission also announced 1 billion euro would be committed to ramping up AI use in numerous sectors such as healthcare, energy, mobility, culture and others.\n\n\nRead more from the digest\n\n\nExplore AI case studies"
   },
   {
-    "objectID": "case-studies/posts/bfi-national-archive/index.html",
-    "href": "case-studies/posts/bfi-national-archive/index.html",
-    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "objectID": "case-studies/posts/karmanline/index.html",
+    "href": "case-studies/posts/karmanline/index.html",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "",
-    "text": "The BFI National Archive is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilms, and materials such as scripts, photographs, and posters."
+    "text": "Karmanline was founded in 2025 by Tim Carter, Paul Barnes, Chloe Chesterton and Simon Mirren. Half the team have a background in film and TV (Chesterton as an assistant director on feature films, and Mirren as a showrunner) and half in the technology industry.\nThe company is setting out to build what Carter describes as an “operating system” for film and TV productions: “a mechanism for bringing together different tools and applying those to different workflows” to help turn creative ideas into operational and business plans.\nGenerative AI tools allow productions to connect and coordinate the operational planning side with the creative side in new and interesting ways, says Carter. While developing a concept into a script, for example, a production team might also, in parallel, be developing early-stage visuals to feed into scheduling and planning decisions, including location scouting.\n\n\n\n\nScreenshot of the Karmanline platform, courtesy of Karmanline."
   },
   {
-    "objectID": "case-studies/posts/bfi-national-archive/index.html#background",
-    "href": "case-studies/posts/bfi-national-archive/index.html#background",
-    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "objectID": "case-studies/posts/karmanline/index.html#background",
+    "href": "case-studies/posts/karmanline/index.html#background",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "",
-    "text": "The BFI National Archive is the UK’s national collection of film and television, and one of the largest and most significant in the world. The collection provides a record of the history, culture and art of filmmaking and TV production, as well as a document of daily life in the UK from the late 19th century to today. Items in the archive include feature films and short fiction, television programmes, non-fiction, webfilms, and materials such as scripts, photographs, and posters."
+    "text": "Karmanline was founded in 2025 by Tim Carter, Paul Barnes, Chloe Chesterton and Simon Mirren. Half the team have a background in film and TV (Chesterton as an assistant director on feature films, and Mirren as a showrunner) and half in the technology industry.\nThe company is setting out to build what Carter describes as an “operating system” for film and TV productions: “a mechanism for bringing together different tools and applying those to different workflows” to help turn creative ideas into operational and business plans.\nGenerative AI tools allow productions to connect and coordinate the operational planning side with the creative side in new and interesting ways, says Carter. While developing a concept into a script, for example, a production team might also, in parallel, be developing early-stage visuals to feed into scheduling and planning decisions, including location scouting.\n\n\n\n\nScreenshot of the Karmanline platform, courtesy of Karmanline."
   },
   {
-    "objectID": "case-studies/posts/bfi-national-archive/index.html#application-of-ai",
-    "href": "case-studies/posts/bfi-national-archive/index.html#application-of-ai",
-    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "objectID": "case-studies/posts/karmanline/index.html#application-of-ai",
+    "href": "case-studies/posts/karmanline/index.html#application-of-ai",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "Application of AI",
-    "text": "Application of AI\n\n\n\n\n\n\nNote\n\n\n\n\n\nThe text in this section has been updated following its inclusion in the June 2025 report, AI in the Screen Sector: Perspectives and Paths Forward.\n\n\n\nThe BFI National Archive has been experimenting with large language models, vision models, and established natural language processing methods, to assess their usefulness for enhancing and augmenting collections data. After this experimental phase, the team intends to build an inference pipeline to connect these services, and to deploy to an NVIDIA H-100 GPU in the Archive network.\nThe experiments focus on three areas:\n\n\nSpeech-to-text\n\nTesting OpenAI’s Whisper and various derivatives – such as WhisperX – as well as alternative models like Nvidia’s Parakeet, to run speech-to-text on files from digitisation of videotape from the national television collection. The aim is to generate a WebVTT subtitles file to enhance accessibility on digital platforms, and to generate a text output to pass into the next service.\n\n\n\nNamed entity recognition (NER) and wikification\n\nUsing spaCy or GLiNER for NER, and passing extracted entities to EntityFishing or ReFinED for Wikidata/Wikipedia matching. The aim is to utilise the speech-to-text from videotape digitisation above, plus subtitle text from automated off-air TV recording, to explore the creation of a semantically enriched search and discovery approach for the national TV collection.\n\n\n\nVideo understanding and description\n\nExperimenting with Google Gemini Pro to catalogue, shotlist and contextualise moving image content from the collection. The team provided examples of cataloguing and achieved promising results from Gemini, and is now looking to expand this experiment and replicate it with open models in the Archive network, as video understanding becomes stronger in open models – such as Qwen, Intern or LLaVA-Video models. The aim is to augment historically variable documentation to enhance search and discovery of key BFI National Archive collections.\n\n\n\n\n\n\n\nFilm reel cannisters inside the BFI National Archive, courtesy of the BFI."
+    "text": "Application of AI\nKarmanline is not looking to build its own AI models but instead develop software that allows a variety of models and tools to be integrated into a unified platform for cross-department collaboration. “We want Karmanline to be the place where your producer, director, writer or showrunner goes to orchestrate all the jobs to be done across a production,” says Carter.\nThe team is taking a modular approach to building out the platform, beginning with a pre-visualisation web app that takes a script and uses several generative models – including Marey from Moonvalley and Google Gemini – to visualise key elements and scenes. As part of its script workflow, the company will be looking to integrate with screenwriting software Final Draft, but also allowing connections with Google Docs, Word, and other tools. “We don’t want to be dictating what tools people have to use,” says Carter.\nNext, the team expects to add in an automation layer that will infer, from script and visuals, what the shooting schedule options might be, as well as accounting or financing options.\n\n\n\n“The requirements for automation and for the connection of information from production scheduling and production management have existed for a long time. But the opportunity exists now because AI tools are changing the game. Language models provide a new way of interfacing with computers, so non-programmers can get computers to do much more for them than could be done in the past.”\n\n\n\nTim Carter, co-founder, Karmanline."
   },
   {
-    "objectID": "case-studies/posts/bfi-national-archive/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "href": "case-studies/posts/bfi-national-archive/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "objectID": "case-studies/posts/karmanline/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/karmanline/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "Applying the CoSTAR Foresight Lab AI roadmap",
-    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nThe BFI National Archive has followed the “scan &gt; pilot &gt; scale” approach to AI adoption, starting by identifying use cases, testing models on a limited scale, and then planning for scale-up implementation, using locally-deployed open-weight models to ensure that no data leaves the Archive network.\n\n\n\nSector adaptation\n\nAI technologies have the potential to unlock additional value within screen archives, with benefits for researchers, creators and collection holders in terms of discoverability, accessibility and use of archive material. Work undertaken by the BFI National Archive will help show where and how archives can best adapt to and adopt AI technologies to realise these benefits."
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nIn building out its platform, Karmanline is looking to embed the concept of a “Free Space” and a “Pro Space”: the former for early-stage ideation, where choice of AI model may have least risk attached to it; the latter for when new creative assets and IP are being realised, governance and risk management processes kick in, and producers require a clean chain of title and verifiable audit trail.\n\n\n\nInsight\n\nAs part of its mapping of creative and AI tools available to film and TV productions, Karmanline has produced and published (under Creative Commons license) a table of more than 300 products, describing the main use cases of each product, their input and output modes, and whether they train on user data. The CoSTAR Foresight Lab has also published its own framework of advanced machine learning tools used in film production, organised by production phase.\n\n\n\nSector adaptation\n\nCarter sees the coordination of information and workflows across creative and business processes as “imperative” given budgetary pressures linked to cost inflation. “When you’re producing a TV show or a movie,” he says “there’s a whole bunch of tasks across production, execution, finance, administration and marketing. Those tasks need to be done however you’re producing the content. But the opportunity of AI tools is that those tasks can be coordinated.”"
   },
   {
-    "objectID": "case-studies/posts/bfi-national-archive/index.html#resources",
-    "href": "case-studies/posts/bfi-national-archive/index.html#resources",
-    "title": "BFI National Archive: Experimenting with AI models to enhance data, discoverability, and accessibility",
+    "objectID": "case-studies/posts/karmanline/index.html#resources",
+    "href": "case-studies/posts/karmanline/index.html#resources",
+    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
     "section": "Resources",
-    "text": "Resources\n\nInside the Archive\n\n\n\nFind more case studies\n\n\nRead the report"
+    "text": "Resources\n\nKarmanline\nProduction software table\nAdvanced Machine Learning in Film Production\n\n\n\nFind more case studies\n\n\nRead the report"
+  },
+  {
+    "objectID": "case-studies/posts/metrotone/index.html",
+    "href": "case-studies/posts/metrotone/index.html",
+    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
+    "section": "",
+    "text": "Metrotone Media is a London-based film and television studio founded by TV producer and showrunner Katharina Gellein Viken and broadcaster and journalist Dr Charles Kriel. In December 2025, Metrotone launched Screenburn, a content development tool to help creators structure story ideas around a variety of screen formats, including films, TV shows, and micro-dramas.\nThrough a mix of questions and prompts, Screenburn guides users to develop ideas into key scenes within an overarching narrative. For example, for a feature film, users are first encouraged to describe the opening image or scene before introducing the story’s protagonist, their personality traits, strengths and flaws. Scenes can then be reordered or remixed to fit different formats, allowing for multiple adaptations of the same central idea.\nMetrotone is looking to further develop Screenburn during its engagement with the CoSTAR Evolve programme, which is providing business growth support to 11 UK creative technology companies.\n\n\n\n\n\n“When everybody started piling in and AI sort of levelled the playing field, we quickly realised that creating visuals would become easier. But creating a good story still wouldn’t be easy… Writing and content development hadn’t really had an upgrade.”\n\n\n\n\n\nKatharina Gellein Viken, co-founder, Metrotone Media."
+  },
+  {
+    "objectID": "case-studies/posts/metrotone/index.html#background",
+    "href": "case-studies/posts/metrotone/index.html#background",
+    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
+    "section": "",
+    "text": "Metrotone Media is a London-based film and television studio founded by TV producer and showrunner Katharina Gellein Viken and broadcaster and journalist Dr Charles Kriel. In December 2025, Metrotone launched Screenburn, a content development tool to help creators structure story ideas around a variety of screen formats, including films, TV shows, and micro-dramas.\nThrough a mix of questions and prompts, Screenburn guides users to develop ideas into key scenes within an overarching narrative. For example, for a feature film, users are first encouraged to describe the opening image or scene before introducing the story’s protagonist, their personality traits, strengths and flaws. Scenes can then be reordered or remixed to fit different formats, allowing for multiple adaptations of the same central idea.\nMetrotone is looking to further develop Screenburn during its engagement with the CoSTAR Evolve programme, which is providing business growth support to 11 UK creative technology companies.\n\n\n\n\n\n“When everybody started piling in and AI sort of levelled the playing field, we quickly realised that creating visuals would become easier. But creating a good story still wouldn’t be easy… Writing and content development hadn’t really had an upgrade.”\n\n\n\n\n\nKatharina Gellein Viken, co-founder, Metrotone Media."
+  },
+  {
+    "objectID": "case-studies/posts/metrotone/index.html#application-of-ai",
+    "href": "case-studies/posts/metrotone/index.html#application-of-ai",
+    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
+    "section": "Application of AI",
+    "text": "Application of AI\nThe Screenburn user experience includes suggestions derived from large language models, although these suggestions are not based on the story or script in development. Instead, AI is used to explain core concepts – such as the role of a protagonist – and illustrate with examples from existing stories.\nIn this way, the user does not prompt the AI; the AI prompts the user. Viken says that while AI guidance features throughout the tool, it does not read the user’s story or script, and it doesn’t extract IP.\nMetrotone has used Screenburn for its own content development. An early version helped develop the studio’s Raynmaker story from book idea to script. Raynmaker is about an ex-marine living in hiding who creates a K-pop star as an online alter-ego. A 22-episode series is now in production, with generative AI tools being used to create both audio and visuals. Using Screenburn, the company has also developed micro-drama, feature film, novel and graphic novel versions of the Raynmaker story.\nViken and Kriel used AI in writing the codebase for the Screenburn software. “We could never have done this without using AI to help code,” says Viken. “Instead of just the two of us, we would have needed a team of 10-15 people. But as with all AI, you have to have someone who’s experienced in the field looking over the outputs to recognise when it’s not giving you good stuff.”"
+  },
+  {
+    "objectID": "case-studies/posts/metrotone/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/metrotone/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
+    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nRights\n\nScreenburn is designed so that AI is walled off from user content. Nor is AI used to create content directly, instead guiding users to write their own stories while using examples of character or plot developments drawn from existing sources.\n\n\n\nSkills\n\nMetrotone’s experience of using AI coding assistants to develop Screenburn from internal tool to product demonstrates a potential benefit of building AI skills within the screen sector: allowing creative professionals to design custom solutions for specific use cases within creative workflows.\n\n\n\nIndependent creation\n\nThe Screenburn approach positions AI as an assistant within a creative process that remains driven by human ideas and imagination. The role of AI is to augment the capabilities of a writer and allow them to sharpen and adapt their ideas to new formats."
+  },
+  {
+    "objectID": "case-studies/posts/metrotone/index.html#resources",
+    "href": "case-studies/posts/metrotone/index.html#resources",
+    "title": "Metrotone Media: Using generative AI to guide, rather than replace, screen storytellers",
+    "section": "Resources",
+    "text": "Resources\n\nMetrotone Media\nScreenburn\nRaynmaker pilot episode\n\n\n\nFind more case studies\n\n\nRead the report"
+  },
+  {
+    "objectID": "case-studies/posts/black-goblin/index.html",
+    "href": "case-studies/posts/black-goblin/index.html",
+    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
+    "section": "",
+    "text": "Black Goblin is an Edinburgh-based creative technology company started by two female founders.\nThe team started working on a product called Thol that would automate ‘spotting’ – identifying where in a video timeline audio elements need to be added – and generating, using AI, appropriate sound effects to be inserted into the timeline. The team is now initially building out the spotting functionality, based on user feedback and research.\n“Sound design is a discipline that … very much goes hand-in-hand with new novel technologies; how to use technology to enhance the creative side of work,” says Black Goblin co-founder Ana Betancourt.\n\n\n\n\nA mockup of Thol’s user interface, copyright Black Goblin. The application is currently in beta testing."
+  },
+  {
+    "objectID": "case-studies/posts/black-goblin/index.html#background",
+    "href": "case-studies/posts/black-goblin/index.html#background",
+    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
+    "section": "",
+    "text": "Black Goblin is an Edinburgh-based creative technology company started by two female founders.\nThe team started working on a product called Thol that would automate ‘spotting’ – identifying where in a video timeline audio elements need to be added – and generating, using AI, appropriate sound effects to be inserted into the timeline. The team is now initially building out the spotting functionality, based on user feedback and research.\n“Sound design is a discipline that … very much goes hand-in-hand with new novel technologies; how to use technology to enhance the creative side of work,” says Black Goblin co-founder Ana Betancourt.\n\n\n\n\nA mockup of Thol’s user interface, copyright Black Goblin. The application is currently in beta testing."
+  },
+  {
+    "objectID": "case-studies/posts/black-goblin/index.html#application-of-ai",
+    "href": "case-studies/posts/black-goblin/index.html#application-of-ai",
+    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
+    "section": "Application of AI",
+    "text": "Application of AI\nThe original vision for Thol was to explore the automation of sound effects in a video timeline to create a rough first pass for sound editors. The company conducted observational research, sitting with approximately 10 sound designers over several months to watch them work. Betancourt describes the methodology: “We just observed … without asking questions, except when we saw them struggle, you know, can you explain what you’re doing?”. The participants identified spotting and marking as a place where technology could be applied, without encroaching on their creativity and professional practice, and the Black Goblin team is prioritising this use case.\nThol’s functionality relies on a mixture of machine learning methods, including vision-language models, a class of AI models that integrates understanding of both image and text, to extract timestamps of action-related events and sound sources from a video.\nWhilst these types of models are trained on existing text, image and video data, Black Goblin are using them to guide an audio production session.\n\n\n\n\n\n“Success for us looks like a sound designer using this, and feeling that they were able to make more impact on their projects because of the time that they saved”\n\n\n\n\n\nAna Betancourt, co-founder of Black Goblin."
+  },
+  {
+    "objectID": "case-studies/posts/black-goblin/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "href": "case-studies/posts/black-goblin/index.html#applying-the-costar-foresight-lab-ai-roadmap",
+    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
+    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
+    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nBlack Goblin’s focus changed from generating audio to marking up spotting sessions after engaging in user research. The users of their tool, currently in beta, are informed where in the pipeline AI models are being used.\n\n\n\nInvestment\n\nThe team have received funding and support from University of Edinburgh, MyWorld (UKRI), and CoSTAR. They are currently looking to raise a funding round."
+  },
+  {
+    "objectID": "case-studies/posts/black-goblin/index.html#resources",
+    "href": "case-studies/posts/black-goblin/index.html#resources",
+    "title": "Black Goblin: Using vision-language models to automate sound spotting in video timelines",
+    "section": "Resources",
+    "text": "Resources\n\n\nBlack Goblin website\nBlack Goblin contributed to An Introduction to Responsible AI for SMEs - via Coursera\n\n\n\nFind more case studies\n\n\nRead the report"
   },
   {
     "objectID": "case-studies/posts/bonzamusic/index.html",
@@ -404,76 +509,6 @@
     "title": "Lux Aeterna: Navigating the legal, ethical, and practical constraints of AI in production",
     "section": "Resources",
     "text": "Resources\n\nLux Aeterna’s tech blog\nLux Aeterna, MyWorld case study\nCoSTAR National Lab’s blog on Gaussian splatting R&D\n\n\n\nFind more case studies\n\n\nRead the report"
-  },
-  {
-    "objectID": "case-studies/posts/karmanline/index.html",
-    "href": "case-studies/posts/karmanline/index.html",
-    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
-    "section": "",
-    "text": "Karmanline was founded in 2025 by Tim Carter, Paul Barnes, Chloe Chesterton and Simon Mirren. Half the team have a background in film and TV (Chesterton as an assistant director on feature films, and Mirren as a showrunner) and half in the technology industry.\nThe company is setting out to build what Carter describes as an “operating system” for film and TV productions: “a mechanism for bringing together different tools and applying those to different workflows” to help turn creative ideas into operational and business plans.\nGenerative AI tools allow productions to connect and coordinate the operational planning side with the creative side in new and interesting ways, says Carter. While developing a concept into a script, for example, a production team might also, in parallel, be developing early-stage visuals to feed into scheduling and planning decisions, including location scouting.\n\n\n\n\nScreenshot of the Karmanline platform, courtesy of Karmanline."
-  },
-  {
-    "objectID": "case-studies/posts/karmanline/index.html#background",
-    "href": "case-studies/posts/karmanline/index.html#background",
-    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
-    "section": "",
-    "text": "Karmanline was founded in 2025 by Tim Carter, Paul Barnes, Chloe Chesterton and Simon Mirren. Half the team have a background in film and TV (Chesterton as an assistant director on feature films, and Mirren as a showrunner) and half in the technology industry.\nThe company is setting out to build what Carter describes as an “operating system” for film and TV productions: “a mechanism for bringing together different tools and applying those to different workflows” to help turn creative ideas into operational and business plans.\nGenerative AI tools allow productions to connect and coordinate the operational planning side with the creative side in new and interesting ways, says Carter. While developing a concept into a script, for example, a production team might also, in parallel, be developing early-stage visuals to feed into scheduling and planning decisions, including location scouting.\n\n\n\n\nScreenshot of the Karmanline platform, courtesy of Karmanline."
-  },
-  {
-    "objectID": "case-studies/posts/karmanline/index.html#application-of-ai",
-    "href": "case-studies/posts/karmanline/index.html#application-of-ai",
-    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
-    "section": "Application of AI",
-    "text": "Application of AI\nKarmanline is not looking to build its own AI models but instead develop software that allows a variety of models and tools to be integrated into a unified platform for cross-department collaboration. “We want Karmanline to be the place where your producer, director, writer or showrunner goes to orchestrate all the jobs to be done across a production,” says Carter.\nThe team is taking a modular approach to building out the platform, beginning with a pre-visualisation web app that takes a script and uses several generative models – including Marey from Moonvalley and Google Gemini – to visualise key elements and scenes. As part of its script workflow, the company will be looking to integrate with screenwriting software Final Draft, but also allowing connections with Google Docs, Word, and other tools. “We don’t want to be dictating what tools people have to use,” says Carter.\nNext, the team expects to add in an automation layer that will infer, from script and visuals, what the shooting schedule options might be, as well as accounting or financing options.\n\n\n\n“The requirements for automation and for the connection of information from production scheduling and production management have existed for a long time. But the opportunity exists now because AI tools are changing the game. Language models provide a new way of interfacing with computers, so non-programmers can get computers to do much more for them than could be done in the past.”\n\n\n\nTim Carter, co-founder, Karmanline."
-  },
-  {
-    "objectID": "case-studies/posts/karmanline/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "href": "case-studies/posts/karmanline/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
-    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
-    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nIn building out its platform, Karmanline is looking to embed the concept of a “Free Space” and a “Pro Space”: the former for early-stage ideation, where choice of AI model may have least risk attached to it; the latter for when new creative assets and IP are being realised, governance and risk management processes kick in, and producers require a clean chain of title and verifiable audit trail.\n\n\n\nInsight\n\nAs part of its mapping of creative and AI tools available to film and TV productions, Karmanline has produced and published (under Creative Commons license) a table of more than 300 products, describing the main use cases of each product, their input and output modes, and whether they train on user data. The CoSTAR Foresight Lab has also published its own framework of advanced machine learning tools used in film production, organised by production phase.\n\n\n\nSector adaptation\n\nCarter sees the coordination of information and workflows across creative and business processes as “imperative” given budgetary pressures linked to cost inflation. “When you’re producing a TV show or a movie,” he says “there’s a whole bunch of tasks across production, execution, finance, administration and marketing. Those tasks need to be done however you’re producing the content. But the opportunity of AI tools is that those tasks can be coordinated.”"
-  },
-  {
-    "objectID": "case-studies/posts/karmanline/index.html#resources",
-    "href": "case-studies/posts/karmanline/index.html#resources",
-    "title": "Karmanline: Creating a new ‘operating system’ to coordinate production tasks and workflows",
-    "section": "Resources",
-    "text": "Resources\n\nKarmanline\nProduction software table\nAdvanced Machine Learning in Film Production\n\n\n\nFind more case studies\n\n\nRead the report"
-  },
-  {
-    "objectID": "case-studies/posts/deep-fusion-films/index.html",
-    "href": "case-studies/posts/deep-fusion-films/index.html",
-    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
-    "section": "",
-    "text": "Deep Fusion Films are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company’s first production Gerry Anderson: A Life Uncharted used AI to explore the personal story of Thunderbirds creator Gerry Anderson, whilst Virtually Parkinson is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests, using AI dialogue and voice synthesis.\n\n\n\n\nA screenshot of the tools used to train and replace Gerry Anderson’s face during the production of the show, courtesy of Deep Fusion Films."
-  },
-  {
-    "objectID": "case-studies/posts/deep-fusion-films/index.html#background",
-    "href": "case-studies/posts/deep-fusion-films/index.html#background",
-    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
-    "section": "",
-    "text": "Deep Fusion Films are a Cardiff-based production company making premium documentary, factual series, and podcasts. The company’s first production Gerry Anderson: A Life Uncharted used AI to explore the personal story of Thunderbirds creator Gerry Anderson, whilst Virtually Parkinson is a podcast series that aimed to recreate the experience of Michael Parkinson interviewing contemporary guests, using AI dialogue and voice synthesis.\n\n\n\n\nA screenshot of the tools used to train and replace Gerry Anderson’s face during the production of the show, courtesy of Deep Fusion Films."
-  },
-  {
-    "objectID": "case-studies/posts/deep-fusion-films/index.html#application-of-ai",
-    "href": "case-studies/posts/deep-fusion-films/index.html#application-of-ai",
-    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
-    "section": "Application of AI",
-    "text": "Application of AI\nGerry Anderson: A Life Uncharted was the company’s first production and came out of experimentation with emerging ‘DeepFake’ tools to overlay Gerry Anderson’s visual appearance onto a body double and create new interview footage with the synthetic character.\nVirtually Parkinson used synthetic audio generation to explore the idea of an AI system ‘interviewing’ new guests based on the style, tone, approach and generated voice of Sir Michael Parkinson.\nWhilst these are the most high-profile examples of Deep Fusion’s use of AI, more recently their focus has shifted to applying new technologies to address some of the fundamental economic challenges facing TV production. The company has been developing two systems to accelerate its own pre-production and planning around new ideas and projects:\n\nWeavr uses visual and metadata analysis to help producers identify what kind of stories could be told using available archive material. It generates potential concepts, three-act structures and illustrative scripts based on the creative briefs provided by producers. These scripts can then be mocked up with a synthetic voice platform, like ElevenLabs.\nPaperCut is a tool that creates XML files based on available archive material and newly acquired interview and b-roll footage.\n\nDeep Fusion co-founder and CEO Ben Field is keen to emphasise that, in using these tools, productions are still being created by a regular production team. “It’s just that they’re working much, much quicker,” says Field. “And they’re being able to iterate and be creative in a much more dynamic way.”\n\n\n\n\n\n“We need to stop imagining that AI is putting people out of work. The industry is putting people out of work, and [we think] AI is creating opportunities to bring them back in.”\n\n\n\n\n\nBen Field, co-founder and CEO, Deep Fusion Films."
-  },
-  {
-    "objectID": "case-studies/posts/deep-fusion-films/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "href": "case-studies/posts/deep-fusion-films/index.html#applying-the-costar-foresight-lab-ai-roadmap",
-    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
-    "section": "Applying the CoSTAR Foresight Lab AI roadmap",
-    "text": "Applying the CoSTAR Foresight Lab AI roadmap\nOur AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.\n\nHow this case study aligns with the roadmap\n\n\nResponsible AI\n\nDeep Fusion Films positions itself as an ethical creator and adopter of AI, and has been actively involved in shaping UK policy around AI use in the creative industries. The company has internal policies on copyright and training data.\n\n\n\nInsight\n\nDeep Fusion has been open about its use of AI and has shared insights into its processes and approaches, contributing to a broader understanding of the technology’s potential and challenges. It also recently published its own white paper on the use of AI in the screen industries, which features an ethical AI checklist for producers (see Resources section).\n\n\n\nIndependent creation\n\nDeep Fusion’s story is part of an emerging theme. Creators are trying to use existing AI products and solutions but finding them wanting for creative tasks in the CoSTAR sectors. By building their own tooling and infrastructure, companies like Deep Fusion are enabling new workflows for themselves, and maintaining control over the use of the technology."
-  },
-  {
-    "objectID": "case-studies/posts/deep-fusion-films/index.html#resources",
-    "href": "case-studies/posts/deep-fusion-films/index.html#resources",
-    "title": "Deep Fusion Films: From generative AI experiments to building bespoke tools for TV production",
-    "section": "Resources",
-    "text": "Resources\n\nDeep Fusion Film’s AI whitepaper\n\n\n\nFind more case studies\n\n\nRead the report"
   },
   {
     "objectID": "case-studies/posts/ada-eden/index.html",

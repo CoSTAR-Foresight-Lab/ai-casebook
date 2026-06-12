@@ -1,6 +1,6 @@
 ---
 title: "Humain: Rigging and retooling in the age of AI"
-description: "Belfast-based creative services and technology company applies AI to create new tools an."
+description: "Creative services and technology company applies AI to create new tools, products, and services."
 categories:
   - Responsible AI
   - Investment
@@ -27,7 +27,7 @@ Screenshot of the Humain Creator platform, courtesy of Humain.
 :::
 
 ## Application of AI 
-Around 2020, a published research paper demonstrated a digital character speaking with no rig at all, its facial movements instead driven directly by an audio file. For Maguire, this was "an existential crisis": if a mesh could be animated from sound alone, the case for commissioning a studio to do that work could become much harder to make. The team's response was to look at what those early audio-to-mesh models actually needed, and where the gaps were in both functionality and quality. Existing public datasets were poor quality, and Humain's core work was creating exactly the kind of high-fidelity character databases they lacked. 
+Around 2020, a published research paper demonstrated a digital character speaking with no rig at all, its facial movements instead driven directly by an audio file. For Maguire, this was "an existential crisis", if a mesh could be animated from sound alone, the case for commissioning a studio to do that work could become much harder to make. The team's response was to look at what those early audio-to-mesh models actually needed, and where the gaps were in both functionality and quality. Existing public datasets were poor quality, focused on proof-of-concept and academic applicaiton. Creating production-ready models relies on high quality, standardised motion data, and Humain's core work was creating exactly the kind of high-fidelity character databases they lacked. 
 
 Working with chief scientific officer Erica Rosenberg, the Humain team captured 40 facial action units (FACS), a standardised annotation system for expressions, plus 100 common combinations, then wrote software to transfer those from a source subject to other characters, adding new approaches and features over time. The studio has published around 30 peer-reviewed papers on computer vision covering encoding and decoding strategies, identity tracking, and expression transfer. One finding from this work came as a surprise: because the model had been trained on phonetically-diverse audio rather than language-specific data, it worked in Japanese, Chinese, French, Polish and other languages without major additional training.  
 
@@ -36,7 +36,7 @@ This work led to the development of Humain Creator, a tool that generates and li
 ::: {.column-page}
 ::: {.pullquote-container}
 ::: {.pullquote}
-"We thought we were training it in a language, but we were actually training it with sound."
+"We thought we were training [our model] in language, but we were actually training it with sound."
 :::
 :::
 

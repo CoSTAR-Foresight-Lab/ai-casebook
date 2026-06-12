@@ -9,7 +9,7 @@ author: David Johnston
 citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
-date: 06/08/2026
+date: 06/12/2026
 toc: false
 # image:
 # image-alt:
@@ -19,7 +19,7 @@ toc: false
 Humain specialises in digital human creation for video games and screen. Founded in 2017 by Greg Maguire, who led teams at Disney and Lucasfilm Animation, the company builds rigs (digital controls) and characters for major titles including *Halo*, *Call of Duty*, *Microsoft Flight Simulator*, *Diablo II* and *The Outer Worlds 2*. Maguire’s career has run alongside successive waves of new technology in animation -- from the introduction of motion capture to music videos at Colossal Pictures in the early 1990s, to retraining traditional 2D animators to work on Disney’s first 3D feature film. Humain was set up with a similar structure to those larger studios: a production team works directly with clients and feeds requirements and needs to an internal R&D team, whose job is to explore and build tools to keep abreast of innovations.
 
 :::{.column-body}
-![](images/humain_creator.png){fig-alt="Screenshot of the Humain Creator platform, courtesy of Humain."}
+![](images/humain_creator.png){fig-alt="Screenshot of the Humain Creator platform, courtesy of Humain. A 3D character-creation interface showing a realistic digital human head in the center, facing slightly to the right with mouth slightly open. Surrounding panels include preset character thumbnails in the top left, a “Global Identity” section with sliders for age, sex, weight, and multiple ethnicity percentages, and a timeline with audio waveform along the bottom. On the right, a “Dialogue” panel displays previous recordings and a facial rig control map overlay with colored points and labels for facial movements such as mouth, jaw, neck, and cheek controls. The interface has a dark grey, modern UI design."}
 :::
 
 ::: figure-caption
@@ -27,13 +27,13 @@ Screenshot of the Humain Creator platform, courtesy of Humain.
 :::
 
 ## Application of AI 
-Around 2020, a published research paper demonstrated a digital character speaking with no rig at all, its facial movements instead driven directly by an audio file. For Maguire, this was "an existential crisis", if a mesh could be animated from sound alone, the case for commissioning a studio to do that work could become much harder to make. The team's response was to look at what those early audio-to-mesh models actually needed, and where the gaps were in both functionality and quality. Existing public datasets were poor quality, focused on proof-of-concept and academic applicaiton. Creating production-ready models relies on high quality, standardised motion data, and Humain's core work was creating exactly the kind of high-fidelity character databases they lacked. 
+Around 2020, a published research paper demonstrated a digital character speaking with no rig at all, its facial movements instead driven directly by an audio file. For Maguire, this was "an existential crisis": if a mesh could be animated from sound alone, the case for commissioning a studio to do that work could become much harder to make. The team's response was to look at what those early audio-to-mesh models actually needed, and where the gaps were in both functionality and quality. Existing public datasets were poor quality, focused on proof-of-concept and academic application. Creating production-ready models relies on high quality, standardised motion data, and Humain's core work was creating exactly the kind of high-fidelity character databases they lacked. 
 
 Working with chief scientific officer Erica Rosenberg, the Humain team captured 40 facial action units (FACS), a standardised annotation system for expressions, plus 100 common combinations, then wrote software to transfer those from a source subject to other characters, adding new approaches and features over time. The studio has published around 30 peer-reviewed papers on computer vision covering encoding and decoding strategies, identity tracking, and expression transfer. One finding from this work came as a surprise: because the model had been trained on phonetically-diverse audio rather than language-specific data, it worked in Japanese, Chinese, French, Polish and other languages without major additional training.  
 
 This work led to the development of Humain Creator, a tool that generates and lip-syncs 3D characters from an audio file, in any language, in any engine, without rigging, with characters adjustable by age, build or facial feature in milliseconds.
 
-::: {.column-page}
+::: {.column-body}
 ::: {.pullquote-container}
 ::: {.pullquote}
 "We thought we were training [our model] in language, but we were actually training it with sound."

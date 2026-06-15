@@ -1,0 +1,89 @@
+---
+title: "Molly vs the Machines: How AI helped bring a 'machine' perspective to a documentary film"
+description: "Filmmaker Marc Silver used generative AI to narrate and illustrate key historical moments in the evolution of Big Tech and social media." 
+categories:
+  - Independent creation
+  - Public transparency
+author: Brian Tarran
+citation:
+  publisher: CoSTAR Foresight Lab
+  container-title: "AI in the Screen Sector: Casebook"
+date: 06/15/2026
+toc: false
+image-alt: "Still from Molly vs the Machines. A dark, monochrome scene of a bedroom, where a translucent, ghost-like human figure appears to be sitting on a bed, reading or drawing. The figure has an X-ray-like texture, creating a double-exposure effect. In the background, pictures of horses hang on the wall."
+---
+## Background
+
+[*Molly vs the Machines*](https://www.youtube.com/watch?v=qfO7kaxjxT4) is the fifth feature-length documentary from filmmaker Marc Silver. It tells the story of the life and death of British teenager Molly Russell and the rise of surveillance capitalism. In doing so, the film explores the algorithms that serve content on social media platforms – including content related to suicide, depression and anxiety, which were [found to have contributed to Molly’s death](https://news.sky.com/story/molly-russell-inquest-teenager-died-by-self-harm-while-suffering-negative-effects-of-online-content-coroner-finds-12707322), in 2017, from “an act of self-harm".
+
+During the editing of archive footage for the film, Silver and his creative team were wrestling with finding the right language to narrate the history of surveillance capitalism. One evening, Silver was sent a social media video of a mum asking ChatGPT, “From the perspective of the Devil, how would you control children?”. “The answer it gave was a beat-by-beat description of social media,” recalls Silver. He returned home and tried variations of this prompt: “From the perspective of the Devil, tell the story of Molly Russell. From the perspective of the Devil, tell the story of surveillance capitalism.”
+
+“I was blown away by the answers it gave,” he says. “I was copying and pasting and sending to the editor and the producers saying, there’s something in this, I think we might have cracked it. It was a ‘eureka’ moment where we realised that the machine itself has been trained on the last 25, 30 years of the internet, and therefore it sort of knows its own history somewhere behind the scenes. It doesn’t understand it as knowing its own history, but we can prompt it into communicating its own history.”
+
+:::{.column-body}
+![](images/bedroom.png){fig-alt="Still from Molly vs the Machines. A dark, monochrome scene of a bedroom, where a translucent, ghost-like human figure appears to be sitting on a bed, reading or drawing. The figure has an X-ray-like texture, creating a double-exposure effect. In the background, pictures of horses hang on the wall."}
+:::
+
+::: figure-caption
+Still from Molly vs the Machines, courtesy of Marc Silver.
+:::
+
+## Application of AI
+
+Working with co-writer Shoshana Zuboff (author of *The Age of Surveillance Capitalism*) and ChatGPT, Silver produced a 100-page document that provided a “machine” perspective on key historical moments in the evolution of Big Tech and social media, and how systems and algorithms have been designed to increase engagement and, in turn, profit.
+
+Silver says the team spent “many months reiterating, testing and human editing” each narrative point. “One concept that \[the machine\] came up with was this idea that, ‘You, as humans, have memories, and I, the machine, have metadata’,” says Silver. “This gave us a perspective of coldness and disconnection that we hadn't naturally come to ourselves.”  
+
+Once the machine perspective was locked, archive footage was assembled, but there remained gaps in the visuals. To fill these gaps, the team adapted its text generation approach and used AI models to produce images that would illustrate key moments or concepts from the machine’s perspective – again, as if these images were in the machine’s memory. The final piece in establishing the machine as a character within the documentary was to create a voice for the machine using generative AI. Through the course of the film, the machine voice changes – from what Silver describes as an “evil, dystopian” voice at the start, to one in more of a “Silicon Valley” style, and finally to a voice of “empowerment and resistance”. 
+
+To accompany the release of the film, the creative team worked with executive producers [Empathy.AI](https://empathy.co/blog/molly-vs-the-machines-when-machines-reflect-us-back/) to [create a website](https://mollyvsthemachines.com/home) that allows users, via an AI chat interface, to interrogate various materials related to the film. This includes the documentary’s transcript and letters written by Molly Russell’s father, Ian, to the UK government concerning online safety. The AI system built by Empathy.AI takes a different approach to that of Big Tech AI providers, says Silver, “without any data extraction or invasion of privacy” and with full control over knowledge sources and the system’s master prompt, which determines how the system responds to user inputs. Based on this experience, Silver says he is looking to adapt the same workflow for his next project and use AI to explore and generate outputs from compiled research materials. 
+
+“For me – as an artist, as a filmmaker – the bit that I’m now really interested in is that I can curate the knowledge inputs, just like I would on any other film,” says Silver. "That to me is where the human part of this is super powerful. When I began this journey, the concern was all about how the outputs \[of an AI system\] are going to screw artists and take over. But, actually, what I've realised is that as long as I'm in charge of the curation of the inputs – based on how I ordinarily have worked for, like, 30 years – that's the art to me. That is still the deeply human part – having a relationship with knowledge sources.”
+
+::: {.column-body}
+::: {.pullquote-container}
+::: {.grid .gap-6 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-9}
+::: {.pullquote}
+“One concept that \[the machine\] came up with was this idea that, ‘You, as humans, have memories, and I, the machine, have metadata’. This gave us a perspective of coldness and disconnection that we hadn't naturally come to ourselves.”
+:::
+:::
+::: {.g-col-12 .g-col-sm-3}
+![](images/marc_silver.jpg){fig-alt="Portrait photo of Marc Silver"}
+
+::: figure-caption
+Marc Silver, director, *Molly vs the Machines*.
+:::
+
+:::
+:::
+:::
+:::
+
+## Applying the CoSTAR Foresight Lab AI roadmap
+Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.
+
+#### How this case study aligns with the roadmap
+* **Independent creation**
+  : *Molly vs the Machines* and its companion website provide examples of how generative AI can support independent filmmaking: unlocking new perspectives or angles on existing stories and narratives; as a tool for research and knowledge synthesis that forms part of the development process; and as a way to allow audiences to explore key messages, themes and insights arising from documentaries.
+
+
+* **Public transparency**
+  : In press and publicity events for the release of the film, Silver has talked openly about the creative team’s use of AI in production. The film includes scenes of AI prompts being written, followed by scenes that incorporate the resulting AI outputs – including narrative presented from the machine’s perspective, or shifts in tone of voice for the machine narration. The film’s website includes a Transparency Statement (retrievable via text prompt), containing details on how the chat integration functions, including instructions that “every act of response includes self-disclosure about the artificial and systemic nature of its generation process”.
+
+## Resources
+- Watch [*Molly vs the Machines*](https://www.youtube.com/watch?v=qfO7kaxjxT4) on YouTube
+- [*Molly vs the Machines* homepage](https://mollyvsthemachines.com/home)
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Find more case studies](/case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-6 .mb-2}
+
+[Read the report](https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 

@@ -77,7 +77,7 @@ Our AI roadmap is organised around three strategic outcomes – frameworks, targ
 
 ## Resources
 
-- [*Deep Fusion Film's AI Whitepaper*](https://www.deepfusionfilms.com/s/Artificial-Intelligence-in-the-UK-Screen-Industries-A-Practical-White-Paper-November-25.pdf)
+- [Deep Fusion Film's AI whitepaper](https://www.deepfusionfilms.com/s/Artificial-Intelligence-in-the-UK-Screen-Industries-A-Practical-White-Paper-November-25.pdf)
 
 
 ::: {.grid .gap-3 .pb-3 .pt-4}

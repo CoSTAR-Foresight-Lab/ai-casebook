@@ -4,7 +4,7 @@ project:
 website:
   title: "AI in the Screen Sector: Casebook"
   navbar:
-    logo: images/header-logos.png
+    logo: images/header-logos-2026-brand.png
     title: false
     right:
       - href: index.qmd
@@ -15,7 +15,7 @@ website:
         text: Digest
 
   page-footer:
-    background: "#414141"
+    background: "#ffffff"
     left:
       - text: "costarnetwork.co.uk"
         href: https://www.costarnetwork.co.uk/labs/foresightlab

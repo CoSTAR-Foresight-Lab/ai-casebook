@@ -8,7 +8,7 @@ author: Brian Tarran
 citation:
   publisher: CoSTAR Foresight Lab
   container-title: "AI in the Screen Sector: Casebook"
-date: 06/12/2026
+date: 06/15/2026
 toc: false
 image-alt: "Still from Molly vs the Machines. A dark, monochrome scene of a bedroom, where a translucent, ghost-like human figure appears to be sitting on a bed, reading or drawing. The figure has an X-ray-like texture, creating a double-exposure effect. In the background, pictures of horses hang on the wall."
 ---

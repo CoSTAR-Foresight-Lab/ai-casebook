@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Brian Tarran">
+<meta name="dcterms.date" content="2026-06-15">
+<meta name="description" content="Filmmaker Marc Silver used generative AI to narrate and illustrate key historical moments in the evolution of Big Tech and social media.">
 
-<title>AI in the Screen Sector: Quarterly Digest – AI in the Screen Sector: Casebook</title>
+<title>Molly vs the Machines: How AI helped bring a ‘machine’ perspective to a documentary film – AI in the Screen Sector: Casebook</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +29,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b017ac602aafa8567a5015db44da5731.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-b017ac602aafa8567a5015db44da5731.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,79 +73,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/header-logos-2026-brand.png" alt="" class="navbar-logo light-content">
-    <img src="../images/header-logos-2026-brand.png" alt="" class="navbar-logo dark-content">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../images/header-logos-2026-brand.png" alt="" class="navbar-logo light-content">
+    <img src="../../../images/header-logos-2026-brand.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -154,15 +97,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Overview</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../case-studies/index.html"> 
+    <a class="nav-link" href="../../../case-studies/index.html"> 
 <span class="menu-text">Case studies</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../digest/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../digest/index.html"> 
 <span class="menu-text">Digest</span></a>
   </li>  
 </ul>
@@ -176,15 +119,35 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">AI in the Screen Sector: Quarterly Digest</h1>
-            <p class="subtitle lead">A regular summary of AI events and developments impacting the screen sector, brought to you by the CoSTAR Foresight Lab</p>
-                      </div>
+      <h1 class="title">Molly vs the Machines: How AI helped bring a ‘machine’ perspective to a documentary film</h1>
+                  <div>
+        <div class="description">
+          Filmmaker Marc Silver used generative AI to narrate and illustrate key historical moments in the evolution of Big Tech and social media.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Independent creation</div>
+                <div class="quarto-category">Public transparency</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Brian Tarran </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 15, 2026</p>
+      </div>
+    </div>
     
       
     </div>
@@ -193,103 +156,103 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW52ZXN0bWVudA==">Investment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHVibGljJTIwdHJhbnNwYXJlbmN5">Public transparency <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UmVzcG9uc2libGUlMjBBSQ==">Responsible AI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UmlnaHRz">Rights <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U2VjdG9yJTIwYWRhcHRhdGlvbg==">Sector adaptation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U2tpbGxz">Skills <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block page-columns page-full" id="quarto-document-content">
 
 
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UmlnaHRzJTJDUmVzcG9uc2libGUlMjBBSSUyQ1NraWxscyUyQ1B1YmxpYyUyMHRyYW5zcGFyZW5jeSUyQ1NlY3RvciUyMGFkYXB0YXRpb24=" data-listing-date-sort="1776902400000" data-listing-file-modified-sort="1781543781784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2013">
-<div class="thumbnail"><a href="../digest/posts/2026/q1/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../digest/posts/2026/q1/index.html" class="no-external">AI in the Screen Sector: Quarterly Digest - January to March 2026</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmlnaHRz'); return false;">Rights</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzcG9uc2libGUlMjBBSQ=='); return false;">Responsible AI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2tpbGxz'); return false;">Skills</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwdHJhbnNwYXJlbmN5'); return false;">Public transparency</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VjdG9yJTIwYWRhcHRhdGlvbg=='); return false;">Sector adaptation</div>
-
+<section id="background" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p><a href="https://www.youtube.com/watch?v=qfO7kaxjxT4"><em>Molly vs the Machines</em></a> is the fifth feature-length documentary from filmmaker Marc Silver. It tells the story of the life and death of British teenager Molly Russell and the rise of surveillance capitalism. In doing so, the film explores the algorithms that serve content on social media platforms – including content related to suicide, depression and anxiety, which were <a href="https://news.sky.com/story/molly-russell-inquest-teenager-died-by-self-harm-while-suffering-negative-effects-of-online-content-coroner-finds-12707322">found to have contributed to Molly’s death</a>, in 2017, from “an act of self-harm”.</p>
+<p>During the editing of archive footage for the film, Silver and his creative team were wrestling with finding the right language to narrate the history of surveillance capitalism. One evening, Silver was sent a social media video of a mum asking ChatGPT, “From the perspective of the Devil, how would you control children?”. “The answer it gave was a beat-by-beat description of social media,” recalls Silver. He returned home and tried variations of this prompt: “From the perspective of the Devil, tell the story of Molly Russell. From the perspective of the Devil, tell the story of surveillance capitalism.”</p>
+<p>“I was blown away by the answers it gave,” he says. “I was copying and pasting and sending to the editor and the producers saying, there’s something in this, I think we might have cracked it. It was a ‘eureka’ moment where we realised that the machine itself has been trained on the last 25, 30 years of the internet, and therefore it sort of knows its own history somewhere behind the scenes. It doesn’t understand it as knowing its own history, but we can prompt it into communicating its own history.”</p>
+<div class="column-body">
+<p><img src="images/bedroom.png" class="img-fluid" alt="Still from Molly vs the Machines. A dark, monochrome scene of a bedroom, where a translucent, ghost-like human figure appears to be sitting on a bed, reading or drawing. The figure has an X-ray-like texture, creating a double-exposure effect. In the background, pictures of horses hang on the wall."></p>
 </div>
-<div class="delink listing-description"><a href="../digest/posts/2026/q1/index.html" class="no-external">
-<p>Featuring the latest on the UK government’s Copyright and AI Consultation, a new report on AI Human Avatars, and growing calls for AI disclosure and transparency rules.</p>
-</a></div>
+<div class="figure-caption">
+<p>Still from Molly vs the Machines, courtesy of Marc Silver.</p>
 </div>
-<div class="metadata">
-<a href="../digest/posts/2026/q1/index.html" class="no-external">
-<div class="listing-date">
-Apr 23, 2026
-</div>
-<div class="listing-author">
-Petra Lindnerova
-</div>
-</a>
+</section>
+<section id="application-of-ai" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="application-of-ai">Application of AI</h2>
+<p>Working with co-writer Shoshana Zuboff (author of <em>The Age of Surveillance Capitalism</em>) and ChatGPT, Silver produced a 100-page document that provided a “machine” perspective on key historical moments in the evolution of Big Tech and social media, and how systems and algorithms have been designed to increase engagement and, in turn, profit.</p>
+<p>Silver says the team spent “many months reiterating, testing and human editing” each narrative point. “One concept that [the machine] came up with was this idea that, ‘You, as humans, have memories, and I, the machine, have metadata’,” says Silver. “This gave us a perspective of coldness and disconnection that we hadn’t naturally come to ourselves.”</p>
+<p>Once the machine perspective was locked, archive footage was assembled, but there remained gaps in the visuals. To fill these gaps, the team adapted its text generation approach and used AI models to produce images that would illustrate key moments or concepts from the machine’s perspective – again, as if these images were in the machine’s memory. The final piece in establishing the machine as a character within the documentary was to create a voice for the machine using generative AI. Through the course of the film, the machine voice changes – from what Silver describes as an “evil, dystopian” voice at the start, to one in more of a “Silicon Valley” style, and finally to a voice of “empowerment and resistance”.</p>
+<p>To accompany the release of the film, the creative team worked with executive producers <a href="https://empathy.co/blog/molly-vs-the-machines-when-machines-reflect-us-back/">Empathy.AI</a> to <a href="https://mollyvsthemachines.com/home">create a website</a> that allows users, via an AI chat interface, to interrogate various materials related to the film. This includes the documentary’s transcript and letters written by Molly Russell’s father, Ian, to the UK government concerning online safety. The AI system built by Empathy.AI takes a different approach to that of Big Tech AI providers, says Silver, “without any data extraction or invasion of privacy” and with full control over knowledge sources and the system’s master prompt, which determines how the system responds to user inputs. Based on this experience, Silver says he is looking to adapt the same workflow for his next project and use AI to explore and generate outputs from compiled research materials.</p>
+<p>“For me – as an artist, as a filmmaker – the bit that I’m now really interested in is that I can curate the knowledge inputs, just like I would on any other film,” says Silver. “That to me is where the human part of this is super powerful. When I began this journey, the concern was all about how the outputs [of an AI system] are going to screw artists and take over. But, actually, what I’ve realised is that as long as I’m in charge of the curation of the inputs – based on how I ordinarily have worked for, like, 30 years – that’s the art to me. That is still the deeply human part – having a relationship with knowledge sources.”</p>
+<div class="column-body">
+<div class="pullquote-container">
+<div class="grid gap-6 pb-3 pt-4">
+<div class="g-col-12 g-col-sm-9">
+<div class="pullquote">
+<p>“One concept that [the machine] came up with was this idea that, ‘You, as humans, have memories, and I, the machine, have metadata’. This gave us a perspective of coldness and disconnection that we hadn’t naturally come to ourselves.”</p>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UmlnaHRzJTJDUmVzcG9uc2libGUlMjBBSSUyQ1NraWxscyUyQ1B1YmxpYyUyMHRyYW5zcGFyZW5jeSUyQ1NlY3RvciUyMGFkYXB0YXRpb24lMkNJbnZlc3RtZW50" data-listing-date-sort="1772064000000" data-listing-file-modified-sort="1781543781784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2015">
-<div class="thumbnail"><a href="../digest/posts/2025/q4/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../digest/posts/2025/q4/index.html" class="no-external">AI in the Screen Sector: Quarterly Digest - October to December 2025</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmlnaHRz'); return false;">Rights</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzcG9uc2libGUlMjBBSQ=='); return false;">Responsible AI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2tpbGxz'); return false;">Skills</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwdHJhbnNwYXJlbmN5'); return false;">Public transparency</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VjdG9yJTIwYWRhcHRhdGlvbg=='); return false;">Sector adaptation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SW52ZXN0bWVudA=='); return false;">Investment</div>
-
-</div>
-<div class="delink listing-description"><a href="../digest/posts/2025/q4/index.html" class="no-external">
-<p>Copyright remains a pressing topic, with strong public support for the licensing of data for AI training. New guidelines and tools emerge to support responsible and ethical AI practice, while streamers and broadcasters expand AI use in production.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../digest/posts/2025/q4/index.html" class="no-external">
-<div class="listing-date">
-Feb 26, 2026
-</div>
-<div class="listing-author">
-Petra Lindnerova
-</div>
-</a>
+<div class="g-col-12 g-col-sm-3">
+<p><img src="images/marc_silver.jpg" class="img-fluid" alt="Portrait photo of Marc Silver"></p>
+<div class="figure-caption">
+<p>Marc Silver, director, <em>Molly vs the Machines</em>.</p>
 </div>
 </div>
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+</div>
+</section>
+<section id="applying-the-costar-foresight-lab-ai-roadmap" class="level2">
+<h2 class="anchored" data-anchor-id="applying-the-costar-foresight-lab-ai-roadmap">Applying the CoSTAR Foresight Lab AI roadmap</h2>
+<p>Our AI roadmap is organised around three strategic outcomes – frameworks, targeted support, and growth – and driven by nine recommendations that seek to align technological advancement with ethical responsibility and economic opportunity, ensuring long-term growth and success of the UK screen sector.</p>
+<section id="how-this-case-study-aligns-with-the-roadmap" class="level4">
+<h4 class="anchored" data-anchor-id="how-this-case-study-aligns-with-the-roadmap">How this case study aligns with the roadmap</h4>
+<ul>
+<li><dl>
+<dt><strong>Independent creation</strong></dt>
+<dd>
+<em>Molly vs the Machines</em> and its companion website provide examples of how generative AI can support independent filmmaking: unlocking new perspectives or angles on existing stories and narratives; as a tool for research and knowledge synthesis that forms part of the development process; and as a way to allow audiences to explore key messages, themes and insights arising from documentaries.
+</dd>
+</dl></li>
+<li><dl>
+<dt><strong>Public transparency</strong></dt>
+<dd>
+In press and publicity events for the release of the film, Silver has talked openly about the creative team’s use of AI in production. The film includes scenes of AI prompts being written, followed by scenes that incorporate the resulting AI outputs – including narrative presented from the machine’s perspective, or shifts in tone of voice for the machine narration. The film’s website includes a Transparency Statement (retrievable via text prompt), containing details on how the chat integration functions, including instructions that “every act of response includes self-disclosure about the artificial and systemic nature of its generation process”.
+</dd>
+</dl></li>
+</ul>
+</section>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<ul>
+<li>Watch <a href="https://www.youtube.com/watch?v=qfO7kaxjxT4"><em>Molly vs the Machines</em></a> on YouTube</li>
+<li><a href="https://mollyvsthemachines.com/home"><em>Molly vs the Machines</em> homepage</a></li>
+</ul>
+<div class="grid gap-3 pb-3 pt-4">
+<div class="g-col-12 g-col-sm-6">
+<p><a href="../../../case-studies/index.html" class="btn-action btn btn-lg w-100" role="button">Find more case studies</a></p>
+</div>
+<div class="g-col-12 g-col-sm-6 mb-2">
+<p><a href="https://cms.costarnetwork.co.uk/api/media/file/ai-in-the-screen-sector.pdf" class="btn-action btn btn-lg w-100" role="button">Read the report</a></p>
+</div>
+</div>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{tarran2026,
+  author = {Tarran, Brian},
+  publisher = {CoSTAR Foresight Lab},
+  title = {Molly Vs the {Machines:} {How} {AI} Helped Bring a “Machine”
+    Perspective to a Documentary Film},
+  date = {2026-06-15},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-tarran2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+Tarran, Brian. 2026. <span>“Molly Vs the Machines: How AI Helped Bring a
+<span>‘Machine’</span> Perspective to a Documentary Film.”</span> AI in
+the Screen Sector: Casebook, CoSTAR Foresight Lab, June 15.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -703,7 +666,7 @@ Petra Lindnerova
 </ul>
     </div>   
     <div class="nav-footer-center">
-<p>Funded by <a href="https://www.ukri.org/councils/ahrc/remit-programmes-and-priorities/convergent-screen-technologies-and-performance-in-realtime-costar/"><img src="../images/ahrc-logo.png" class="img-fluid"></a></p>
+<p>Funded by <a href="https://www.ukri.org/councils/ahrc/remit-programmes-and-priorities/convergent-screen-technologies-and-performance-in-realtime-costar/"><img src="../../../images/ahrc-logo.png" class="img-fluid"></a></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">

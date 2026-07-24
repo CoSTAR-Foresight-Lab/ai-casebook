@@ -3,6 +3,7 @@ project:
 
 website:
   title: "AI in the Screen Sector: Casebook"
+  favicon: images/favicon.ico
   navbar:
     logo: images/header-logos-2026-brand.png
     title: false

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -42,10 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-f28112a6d9ee5578a439469ea3353f9d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-22f9ed0932fdc85aa64fef2005880d76.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -104,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -196,7 +199,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(14)</span></div><div class="category" data-category="Q2FyYm9u">Carbon <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW5kZXBlbmRlbnQlMjBjcmVhdGlvbg==">Independent creation <span class="quarto-category-count">(7)</span></div><div class="category" data-category="SW5zaWdodA==">Insight <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SW52ZXN0bWVudA==">Investment <span class="quarto-category-count">(6)</span></div><div class="category" data-category="UHVibGljJTIwdHJhbnNwYXJlbmN5">Public transparency <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UmVzcG9uc2libGUlMjBBSQ==">Responsible AI <span class="quarto-category-count">(12)</span></div><div class="category" data-category="UmlnaHRz">Rights <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VjdG9yJTIwYWRhcHRhdGlvbg==">Sector adaptation <span class="quarto-category-count">(6)</span></div><div class="category" data-category="U2tpbGxz">Skills <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(15)</span></div><div class="category" data-category="Q2FyYm9u">Carbon <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW5kZXBlbmRlbnQlMjBjcmVhdGlvbg==">Independent creation <span class="quarto-category-count">(8)</span></div><div class="category" data-category="SW5zaWdodA==">Insight <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SW52ZXN0bWVudA==">Investment <span class="quarto-category-count">(6)</span></div><div class="category" data-category="UHVibGljJTIwdHJhbnNwYXJlbmN5">Public transparency <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UmVzcG9uc2libGUlMjBBSQ==">Responsible AI <span class="quarto-category-count">(13)</span></div><div class="category" data-category="UmlnaHRz">Rights <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VjdG9yJTIwYWRhcHRhdGlvbg==">Sector adaptation <span class="quarto-category-count">(7)</span></div><div class="category" data-category="U2tpbGxz">Skills <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -210,7 +213,41 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="SW5kZXBlbmRlbnQlMjBjcmVhdGlvbiUyQ1B1YmxpYyUyMHRyYW5zcGFyZW5jeQ==" data-listing-date-sort="1781481600000" data-listing-file-modified-sort="1784905011482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1130">
+<div class="quarto-post image-right" data-index="0" data-categories="SW5kZXBlbmRlbnQlMjBjcmVhdGlvbiUyQ1Jlc3BvbnNpYmxlJTIwQUklMkNTZWN0b3IlMjBhZGFwdGF0aW9u" data-listing-date-sort="1785196800000" data-listing-file-modified-sort="1785171656530" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="698">
+<div class="thumbnail"><a href="../case-studies/posts/wonder-studios/index.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' src="posts/wonder-studios/images/wonder_capaldi.jpg" alt="A still from _Something in the Heavens_"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../case-studies/posts/wonder-studios/index.html" class="no-external">Wonder Studios: Hybrid content creation and community building</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('SW5kZXBlbmRlbnQlMjBjcmVhdGlvbg=='); return false;">Independent creation</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzcG9uc2libGUlMjBBSQ=='); return false;">Responsible AI</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2VjdG9yJTIwYWRhcHRhdGlvbg=='); return false;">Sector adaptation</div>
+
+</div>
+<div class="delink listing-description"><a href="../case-studies/posts/wonder-studios/index.html" class="no-external">
+<p>Startup founded by film, TV and technology professionals aims to unify disconnected tools and AI services into a single platform.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../case-studies/posts/wonder-studios/index.html" class="no-external">
+<div class="listing-date">
+Jul 28, 2026
+</div>
+<div class="listing-author">
+David Johnston
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="SW5kZXBlbmRlbnQlMjBjcmVhdGlvbiUyQ1B1YmxpYyUyMHRyYW5zcGFyZW5jeQ==" data-listing-date-sort="1781481600000" data-listing-file-modified-sort="1785171656508" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1130">
 <div class="thumbnail"><a href="../case-studies/posts/molly-vs-the-machines/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/molly-vs-the-machines/images/bedroom.png" alt="Still from Molly vs the Machines. A dark, monochrome scene of a bedroom, where a translucent, ghost-like human figure appears to be sitting on a bed, reading or drawing. The figure has an X-ray-like texture, creating a double-exposure effect. In the background, pictures of horses hang on the wall."  class="thumbnail-image card-img"/></p>
@@ -242,7 +279,7 @@ Brian Tarran
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9u" data-listing-date-sort="1781222400000" data-listing-file-modified-sort="1784905011445" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="784">
+<div class="quarto-post image-right" data-index="2" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9u" data-listing-date-sort="1781222400000" data-listing-file-modified-sort="1785171656476" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="784">
 <div class="thumbnail"><a href="../case-studies/posts/humain/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/humain/images/humain_creator.png" alt="Screenshot of the Humain Creator platform, courtesy of Humain. A 3D character-creation interface showing a realistic digital human head in the center, facing slightly to the right with mouth slightly open. Surrounding panels include preset character thumbnails in the top left, a “Global Identity” section with sliders for age, sex, weight, and multiple ethnicity percentages, and a timeline with audio waveform along the bottom. On the right, a “Dialogue” panel displays previous recordings and a facial rig control map overlay with colored points and labels for facial movements such as mouth, jaw, neck, and cheek controls. The interface has a dark grey, modern UI design."  class="thumbnail-image card-img"/></p>
@@ -276,7 +313,7 @@ David Johnston
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9u" data-listing-date-sort="1773878400000" data-listing-file-modified-sort="1784905011505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="665">
+<div class="quarto-post image-right" data-index="3" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9u" data-listing-date-sort="1773878400000" data-listing-file-modified-sort="1785171656529" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="665">
 <div class="thumbnail"><a href="../case-studies/posts/superscout/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/superscout/images/superscout_english_heritage.png" alt="A screenshot of the ScreenScout platform, designed for English Heritage. It shows a grid of historic site listings on the left, each with a photo and name - such as Ambleside Roman Fort, Bayards Cove Fort and Battle Abbey. On the right, an interactive map of the United Kingdom displays red location pins marking English Heritage sites."  class="thumbnail-image card-img"/></p>
@@ -310,7 +347,7 @@ David Johnston
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="UmlnaHRzJTJDU2tpbGxzJTJDSW5kZXBlbmRlbnQlMjBjcmVhdGlvbg==" data-listing-date-sort="1773705600000" data-listing-file-modified-sort="1784905011454" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="692">
+<div class="quarto-post image-right" data-index="4" data-categories="UmlnaHRzJTJDU2tpbGxzJTJDSW5kZXBlbmRlbnQlMjBjcmVhdGlvbg==" data-listing-date-sort="1773705600000" data-listing-file-modified-sort="1785171656482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="692">
 <div class="thumbnail"><a href="../case-studies/posts/metrotone/index.html" class="no-external">
 
 <img loading="lazy" src="../case-studies/posts/metrotone/images/raynmaker.png" class="thumbnail-image" alt="Screenshot from Raynmaker pilot episode. A person is riding a motorcycle down a neon‑lit city street at night, surrounded by vibrant pink and blue light trails and futuristic signage, with hair blown back by the motion and wearing a dark jacket while gripping the handlebars.">
@@ -344,7 +381,7 @@ Brian Tarran
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9uJTJDSW5kZXBlbmRlbnQlMjBjcmVhdGlvbg==" data-listing-date-sort="1773619200000" data-listing-file-modified-sort="1784905011384" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
+<div class="quarto-post image-right" data-index="5" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9uJTJDSW5kZXBlbmRlbnQlMjBjcmVhdGlvbg==" data-listing-date-sort="1773619200000" data-listing-file-modified-sort="1785171656418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
 <div class="thumbnail"><a href="../case-studies/posts/bonzamusic/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/bonzamusic/images/bonza_screenshot.jpg" alt="Bonza screenshot TBC"  class="thumbnail-image card-img"/></p>
@@ -380,7 +417,7 @@ David Johnston
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNTZWN0b3IlMjBhZGFwdGF0aW9u" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1784905011449" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="746">
+<div class="quarto-post image-right" data-index="6" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNTZWN0b3IlMjBhZGFwdGF0aW9u" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1785171656479" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="746">
 <div class="thumbnail"><a href="../case-studies/posts/karmanline/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/karmanline/images/karmanline.png" alt="A screenshot of the Karmanline platform. Panels, from left to right, show a script editing window, a media bank of character images, an AI 'shot generator', and shot assembly functionality."  class="thumbnail-image card-img"/></p>
@@ -414,7 +451,7 @@ Brian Tarran
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNQdWJsaWMlMjB0cmFuc3BhcmVuY3k=" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="737">
+<div class="quarto-post image-right" data-index="7" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNQdWJsaWMlMjB0cmFuc3BhcmVuY3k=" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="737">
 <div class="thumbnail"><a href="../case-studies/posts/lux-aeterna/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/lux-aeterna/images/lux_parallax.jpg" alt="A screenshot of Lux Aeterna's exploration of integrating image diffusion models into the population of large scenes."  class="thumbnail-image card-img"/></p>
@@ -448,7 +485,7 @@ David Johnston
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="655">
+<div class="quarto-post image-right" data-index="8" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656432" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="655">
 <div class="thumbnail"><a href="../case-studies/posts/deep-fusion-films/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/deep-fusion-films/images/gerry_anderson_metaphysic.jpg" alt="A screenshot showing the 'DeepFake' process during the production of _Gerry Anderson: A Life Uncharted_."  class="thumbnail-image card-img"/></p>
@@ -482,7 +519,7 @@ David Johnston
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQ=" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011375" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="523">
+<div class="quarto-post image-right" data-index="9" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQ=" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="523">
 <div class="thumbnail"><a href="../case-studies/posts/black-goblin/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/black-goblin/images/thol-feature.jpg" alt="A mockup of Thol’s user interface. The image shows a video timeline with timecodes and a list of sound effects to be added to the timeline."  class="thumbnail-image card-img"/></p>
@@ -514,7 +551,7 @@ David Johnston
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ1NlY3RvciUyMGFkYXB0YXRpb24=" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011373" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="615">
+<div class="quarto-post image-right" data-index="10" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ1NlY3RvciUyMGFkYXB0YXRpb24=" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656408" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="615">
 <div class="thumbnail"><a href="../case-studies/posts/bfi-national-archive/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/bfi-national-archive/images/inside-bfi-national-archive-stacks-reels.jpg" alt="A photo from inside the BFI National Archive. An archive worker is shown standing between two tall walls of shelves containing film reel cannisters."  class="thumbnail-image card-img"/></p>
@@ -546,7 +583,7 @@ Stephen McConnachie, Brian Tarran
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011506" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="788">
+<div class="quarto-post image-right" data-index="11" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656531" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="788">
 <div class="thumbnail"><a href="../case-studies/posts/you-vs-zombies/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/you-vs-zombies/images/YvZ_2.jpg" alt="Screenshot from YOU Vs. Zombies. In-game footage with a hand-drawn, comic-book art style. The playable female character is performing an area-of-effect move, indicated by jagged red and yellow energy rays radiating from her. To the right, a horde of zombies emerges from a pumpkin patch. Several wooden garden planters are scattered to the left. The UI shows a countdown timer at 43, a score of 20 PTS and a health bar at the bottom left."  class="thumbnail-image card-img"/></p>
@@ -580,7 +617,7 @@ Brian Tarran
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="Q2FyYm9uJTJDUmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="658">
+<div class="quarto-post image-right" data-index="12" data-categories="Q2FyYm9uJTJDUmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656427" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="658">
 <div class="thumbnail"><a href="../case-studies/posts/dead-meat/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/dead-meat/images/dead-meat-screenshot.jpg" alt="Screenshot from Dead Meat. A mostly black-and-white image, with one of the game's suspect characters angrily waving their finger and balling their fist. On the right of the image, there is a transcript of the suspect's interrogation."  class="thumbnail-image card-img"/></p>
@@ -616,7 +653,7 @@ Brian Tarran, David Johnston
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNQdWJsaWMlMjB0cmFuc3BhcmVuY3klMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011372" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="739">
+<div class="quarto-post image-right" data-index="13" data-categories="UmVzcG9uc2libGUlMjBBSSUyQ0luc2lnaHQlMkNQdWJsaWMlMjB0cmFuc3BhcmVuY3klMkNJbmRlcGVuZGVudCUyMGNyZWF0aW9u" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656407" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="739">
 <div class="thumbnail"><a href="../case-studies/posts/ada-eden/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/ada-eden/images/screenshot.jpg" alt="Screenshot from 1001 Nights. Player character Shahrzad is shown in conversation with the king. A text box along the bottom of the image gives instructions to the player on how to interact with the game and create a story."  class="thumbnail-image card-img"/></p>
@@ -652,7 +689,7 @@ Brian Tarran
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="Q2FyYm9uJTJDUmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9uJTJDUHVibGljJTIwdHJhbnNwYXJlbmN5" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1784905011388" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="684">
+<div class="quarto-post image-right" data-index="14" data-categories="Q2FyYm9uJTJDUmVzcG9uc2libGUlMjBBSSUyQ0ludmVzdG1lbnQlMkNTZWN0b3IlMjBhZGFwdGF0aW9uJTJDUHVibGljJTIwdHJhbnNwYXJlbmN5" data-listing-date-sort="1772496000000" data-listing-file-modified-sort="1785171656421" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="684">
 <div class="thumbnail"><a href="../case-studies/posts/camera-intelligence/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/camera-intelligence/images/caira_with_woman_in_bg.png" alt="A photograph of a woman in a white t-shirt holding Camera Intelligence's 'Caira' product with a wide-angle lens. She is looking at the back of the camera as if focusing on the photo or videography."  class="thumbnail-image card-img"/></p>

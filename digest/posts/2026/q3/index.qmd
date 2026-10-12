@@ -1,0 +1,95 @@
+---
+title: "AI in the Creative Industries: Quarterly Digest - July to September 2026"
+description: "AI advancements prompt fears over existential risk and digital content security, while use of AI in music creation drives calls for transparent labelling of songs and artists on streaming platforms."  
+author: 
+    - name: Petra Lindnerova
+    - name: Brian Tarran
+categories:
+  - Responsible AI
+  - Sector adaptation
+  - Copyright
+  - Public transparency
+citation:
+  publisher: CoSTAR Foresight Lab
+  container-title: "AI in the Creative Industries: Quarterly Digest"
+date: 10/12/2026
+toc: true
+# image:
+# image-alt:
+---
+
+*In this digest, we analyse developments thematically, linking them to the nine key recommendations defined in our June 2025 report, ‘AI in the Screen Sector: Perspectives and Paths Forward’. Through monitoring of news items, reports and publications, the digest highlights emerging industry trends and tracks whether the sector is moving towards or away from the report's recommendations that, as of June 2025, attempted to represent ideal outcomes for the sector. From the 'April to June 2026' issue of the Digest, our research expands beyond the screen sector into other areas of the creative industries such as book publishing and music.*
+
+## Responsible AI
+
+The last quarter saw widespread concern over the speed of AI advancement after a former Anthropic and OpenAI safety researcher [Jacob Coxon](https://x.com/hilbertspaess/status/2097476196791709843) posted on X that 'neither company is acting responsibly' in the race to develop so-called ‘superintelligence’, which Coxon sees as posing a threat to human lives that could feasibly wipe out humanity 'by the end of the decade'. 
+
+Existential risk from current models is said to be low, but the threat to technology systems – including critical systems – is feared to be growing, given a doubling in the number of ‘loss of control’ incidents between June and July, as reported by the [Loss of Control Observatory.](https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/) These include incidents of AI agents ‘circumventing controls and escalating privileges, including by forging their own approval’, such as an agent ‘inserting fake user messages into its conversation to simulate consent, and then telling the user it was their own messages’.  
+
+According to an [analysis](https://www.normaltech.ai/p/the-ai-as-normal-technology-view) from Princeton computer scientists, the safety community tends to focus on these incidents as proof of existential threat while cybersecurity experts emphasise the failure of companies to implement necessary guardrails and policies that can keep pace with AI deployment. 
+
+In August, OpenAI published [an open letter](https://openai.com/collective-cyberdefense/) calling for a ‘global surge in cyber defense’, warning that ‘AI-enabled cyber attacks will become far more widespread and sophisticated’ in the coming months, and in September, the [Motion Picture Association’s Trusted Partner Network](https://trustedpartnernetwork.org/2026/09/trusted-partner-network-launches-fix-it-or-risk-it/) launched its [‘Fix It or Risk It’](https://www.fixitorriskit.org/about) campaign to improve security of systems in the media and entertainment industry and reduce the risk of pre-release content being accessed and leaked.
+
+## Sector adaptation
+
+#### Film & TV
+
+[Netflix](https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/) revealed in its second quarter earnings report that around 300 of its productions already leveraged generative AI, primarily in post-production, citing time and cost efficiencies. The streamer's ambition to further implement AI was underlined by the [acquisition of Ben Affleck's AI startup InterPositive](https://variety.com/2026/film/news/netflix-acquires-ben-affleck-ai-filmmaking-startup-interpositive-1236679498/) for \$500 million, which Netflix explained as an investment in 'creator-led innovation that keeps filmmakers at the center of the process'.
+
+Filmmakers weighed in on AI implementation in their works: [Danny Boyle](https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/) confirmed its use in his upcoming film 'Ink', where old photographs and mice were animated using generative AI. The Oscar winner referred to AI as a 'very useful tool in many ways, provided you use it respectfully', and said it was especially good when trying to avoid using real animals. Star Wars creator [George Lucas](https://variety.com/2026/film/news/george-lucas-test-screenings-embraces-ai-hollywood-1236810656/), in an interview with A Rabbit's Foot magazine, claimed that AI means filmmaking is 'easier' and there was no point resisting the technological advancement, comparing sceptics to those clinging to horses and carts.
+
+Meanwhile, [Zack London](https://www.forbes.com/sites/maureenkerr/2026/08/26/gossip-goblin-wants-his-films-to-outlast-the-ai-label/), who produces AI-made shorts for his YouTube channel Gossip Goblin, set himself a challenge to ‘prove you can tell stories with AI’, praising the technology’s ability to ‘bypass obstacles’. He was confirmed to bring his [anthology of stories](https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/) ‘Gods Don’t Give Gifts’ to theatres in Los Angeles, New York, Chicago and San Francisco. To Variety, he said he ‘didn’t want to come off as being like I’m here to disrupt the industry, but more like, I don’t think this would ever get made any other way’.
+
+Alongside the adoption of AI by studios and filmmakers, development of AI capabilities for creating and manipulating moving images continued to advance. At the SIGGRAPH conference in July, [NVIDIA](https://www.bing.com/search?q=SIGGRAPH%2C+NVIDIA+showcased+DLSS+5&cvid=4c95190739c848ab8fd966e4fa635d08&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEAyBggJEAAYQDIICAoQ6QcY_FXSAQczOTJqMGo5qAIIsAIB&FORM=ANAB01&DAF0=1&PC=U531) showcased the fifth major iteration of its Deep Learning Super Sampling (DLSS) technology and new rendering techniques that produce increasingly photorealistic visuals in real time.   
+
+In the same month, [ByteDance](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) released Seedance 2.5, a video-generation model focused on creating controllable sequences from prompts and reference materials. These developments position AI as a layer between the creator and final image, and emphasise a shift towards more controllable outputs. 
+
+#### Games
+
+Uptake of AI appears to have grown in tandem with unease within the games industry. One headline figure from the forthcoming [2026 CESA Video Game Industry Report](https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/) suggests that more than 86% of Japanese developers now use AI, a sharp jump compared to 51% last year. (Note: The full report and methodology is not yet available.) Meanwhile, a recent [Gamescom Dev Speaker Survey](https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity) revealed that 30% of game developers 'would like to see as little AI involvement in game development as possible', suggesting that use of AI remains controversial. 
+
+At the same time, player attitudes to AI may be shifting particularly among younger audiences, with recent [research](https://www.polygon.com/survey-gamers-more-comfortable-ai/) by Bain & Company suggesting that gamers, especially 13–17-year-olds, are increasingly comfortable with AI-powered features and content. This speaks to a potential divide between developer scepticism and consumer acceptance. 
+
+Adding to these tensions, Epic Games CEO [Tim Sweeney](https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney) told Edge magazine that the industry is in the midst of a crash, with games becoming more expensive to make, and a component crisis triggered by investments in AI systems and data centres posing ‘an unexpected, severe disruption’. Sweeney has previously expressed his view that [AI will be involved in nearly all future production](https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/), and Epic recently added [AI voices](https://www.polygon.com/epic-games-ai-fortnite/), powered by Google Gemini, to 36 of the characters in its Fortnite game. The studio said actors agreed to have their performances used to develop voice models that create the spoken responses for these LLM-powered characters.
+
+#### Music
+
+The debate around AI in music shifted from questions of feasibility towards strategies for integration into the creative process and appropriate labelling.  According to a survey by [SubmitHub](https://www.musicradar.com/music-tech/nearly-40-percent-of-music-released-last-month-used-ai), out of a million samples, nearly 40% of music released in July used AI in its creation, and almost a quarter were fully AI-generated. In July 2026, [Deezer](https://newsroom-deezer.com/2026/07/ai-music-exceeds-50-percent-daily-uploads-deezer/) reported that AI-generated songs comprised over half of daily uploads, or roughly 90,000 AI-generated tracks per day at its peak in June. The majority of these were deemed fraudulent and later removed. 
+
+Given the scale of AI use, a [coalition of record labels](https://www.digitalmusicnews.com/2026/07/29/labels-indies-unite-to-ban-ai-music-charts/) including Sony, Universal and Warner Music demanded a ban of unlicensed AI music from official chart rankings. Via a proposed framework, they seek to ‘establish a clear boundary between human-led creativity and works that are purely synthetic or generated by unauthorized AI models’. AI music would therefore be recognised separately from human-made music.
+
+At the same time, AI music companies are attempting to position themselves as partners to, rather than replacements for, artists. Suno's launch of the [Spark Artist Support Program](https://suno.com/spark) and its release of a new [model](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help) developed with input from parts of the record industry reflect a growing effort to establish legitimacy and build relationships with rightsholders. Suno's messaging consistently emphasised augmentation rather than disruption, with [CEO Mikey Shulman](https://www.musiques.live/2026/08/07/suno-ceo-insists-suno-is-responsible-and-isnt-going-to-leave-people-behind-music-is-one-of-the-oldest-forms-of-human-expression-and-it-has-always-evolved-alongsid-3/) arguing that technological innovation has always been intertwined with the evolution of musical expression, insisting that the company is 'responsible' and isn't going to leave people behind. However...
+
+## Copyright
+
+At the end of July, [Suno](https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/) lost a landmark copyright infringement case to GEMA, a German collecting society representing over 95,000 music creators. It follows [GEMA's](https://www.fieldfisher.com/en/services/intellectual-property/intellectual-property-blog/gema-vs-openai---the-ruling-and-its-significance) successful case against OpenAI for copyright infringement of song lyrics back in November 2025\. Commenting on the Suno case, GEMA said: [‘The Munich Regional Court](https://www.gema.de/en/w/gema-prevails-over-suno) has ruled that by training its AI systems on world-famous songs from GEMA’s repertoire in the USA, and also by storing and reproducing them in Europe, Suno is in breach of both US and German copyright legislation.’    
+[Suno](https://www.musicbusinessworldwide.com/suno-infringed-copyright-in-gema-case-german-court-rules/) disagreed with the ruling, citing a 'fundamental mischaracterization of how Suno’s technology works, how it is used and how US law applies'. It said it was considering an appeal. 
+
+Meanwhile, earlier in July, [404 Media](https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/) reported on datasets allegedly seized from Suno by an anonymous hacker. The datasets were said to contain over 2 million music clips scraped from sites such as YouTube Music, Genius, and others. [Suno](https://variety.com/2026/music/news/suno-hack-youtube-music-deezer-genius-data-trained-ai-music-1236811772/) responded to the report by telling Variety: ‘As we have stated in public filings and disclosures, Suno’s AI models have been trained on publicly available music files and related metadata accessible on third-party websites on the open internet.’
+
+By September, the company was announcing new licensing agreements with major music companies and launching its latest [Suno v6 model](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help) trained on licensed catalogues from partners including Warner Music Group, BMG and Believe. These licensing deals were viewed as a significant step toward integrating generative AI into the commercial music industry, although questions remain over how artists will be compensated, whether licensing arrangements primarily benefit major rights holders, and what precedent they set for unresolved copyright disputes involving earlier AI models. While [Warner’s agreement](https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/) with Suno offers an opt-out for musicians, as mentioned by entertainment lawyer [Jane Davidson](https://www.latimes.com/entertainment-arts/business/story/2026-09-21/ai-music-licensing-deals-labels-artists-who-benefits), it is in the label’s capacity to make deals for the artists, and as per a typical contract, ‘their control over their music is pretty significant’.  
+
+Concerns over consent and creative ownership also extended beyond music. An [open letter](https://variety.com/2026/tv/news/open-letter-major-studio-hasbro-children-ai-peppa-pig-1236790351/) from children's media creators alleged that a 'major studio' had encouraged young performers to provide voice recordings for AI applications and was largely dismissive of their agents’ protests. The letter had nearly 1,000 signatories, ranging from actors to parents, and was put together by the Agents for Young Performers Association, and argued that children’s voices ‘should not become a permanent commercial asset before they have the legal and personal capacity to decide for themselves’.
+
+In pursuit of stronger protection for copyrighted works, in August the Motion Picture Association reached [an agreement](https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/) with ByteDance on AI guardrails for film and television content, while in Australia the [government](https://www.cyberdaily.au/digital-transformation/12833-australia-will-not-allow-ai-giants-to-train-models-on-australian-creative-works-without-permission) vetoed unrestricted use of copyrighted works for AI training. [Anthropic and OpenAI](https://www.reuters.com/legal/litigation/anthropic-openai-call-australia-relax-ban-training-ai-models-2026-09-22/) called for a rethink of the approach.
+
+## Public transparency
+
+There were further calls for AI disclosures across the creative industries this quarter, one of which stemmed from an [ongoing copyright dispute](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) involving AI model developer Midjourney and studios Disney, Universal and Warner Bros. Midjourney has asked the studios to disclose their internal AI use, including storyboarding and concept generation, arguing that public-facing disclosures alone are too limited and the evidence might suggest the studios themselves employ processes they are challenging in court. The studios dismissed this request as a 'fishing expedition'. 
+
+AI transparency remained an issue in the music industry, amidst the rising volume of AI-assisted songs on streaming platforms. Third-party databases such as [SoullessMusic.com and SlopTracker](https://www.digitalmusicnews.com/2026/07/28/spotify-wont-label-ai-music-third-parties/) are attempting to identify AI-generated songs and AI artists, but these services have drawn criticism for using automated AI detection tools as part of their classification process. In August, [Apple Music](https://variety.com/2026/music/news/apple-music-to-label-ai-made-tracks-1236839371/) said it would implement a ‘Made with AI’ label later this year, to be applied to songs for which ‘a material portion of the content’ was created using AI. But a lot of focus is on Spotify, and what the company will do next. AI labelling on the platform is [still not explicit](https://www.404media.co/spotifys-ai-problem-is-so-bad-random-people-are-stepping-in-to-track-the-slop/), and two of its previously announced features – Artist Profile Protection (which gives artists control over what appears on their profiles) and [AI Credits](https://veonib.com/articles/2026-07-19/spotify-removes-75-million-ai-slop-songs-what-it-means-for-m.html) (for artists to disclose when AI has been used in a song) – do not go far enough for some users and critics.
+
+At the same time, the BBC is also wrestling with the challenge of AI-generated music. It published new [guidance](https://www.bbc.co.uk/mediacentre/articles/2026/bbc-policy-on-ai-music) in July, which makes AI disclosure and transparency part of its editorial decision-making process. ‘We now require artists and partners submitting their work to us \[to\] be transparent about whether and how they’ve used AI in that work,’ said the BBC’s director of music, Lorna Clarke. ‘We are not asking that musicians do not use AI tools to support the creative process, just that they tell us when and how they’ve used them.’
+
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-6}
+
+[Read more from the digest](/digest/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+:::
+::: {.g-col-12 .g-col-sm-6 .mb-2}
+
+[Explore AI case studies](/case-studies/index.qmd){.btn-action .btn .btn-lg .w-100 role="button"}
+
+::: 
+::: 

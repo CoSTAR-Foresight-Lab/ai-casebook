@@ -1,7 +1,7 @@
 ---
-pagetitle: "AI in the Screen Sector: Quarterly Digest"
-title: 'AI in the Screen Sector: Quarterly Digest'
-subtitle: A regular summary of AI events and developments impacting the screen sector, brought to you by the CoSTAR Foresight Lab
+pagetitle: "AI in the Creative Industries: Quarterly Digest"
+title: 'AI in the Creative Industries: Quarterly Digest'
+subtitle: A regular summary of AI events and developments impacting the creative industries, brought to you by the CoSTAR Foresight Lab
 search: false
 listing:
   contents: 
